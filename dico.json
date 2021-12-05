@@ -1,0 +1,3522 @@
+[
+  {
+    "MASC": "acheteur",
+    "FEM": "acheteuse",
+    "forme1": "acheteur‧euse",
+    "forme2": "achet‧eur‧euse",
+    "forme3": null,
+    "forme4": "acheteur‧euse"
+  },
+  {
+    "MASC": "acquéreur",
+    "FEM": "acquéreuse; acquéresse (droit)",
+    "forme1": "acquéreur‧euse",
+    "forme2": "acquéreu⋅r⋅se",
+    "forme3": null,
+    "forme4": "acquéreur‧euse"
+  },
+  {
+    "MASC": "actuaire",
+    "FEM": "actuaire",
+    "forme1": "actuaire",
+    "forme2": "actuaire",
+    "forme3": "actuaire",
+    "forme4": "actuaire"
+  },
+  {
+    "MASC": "acupuncteur",
+    "FEM": "acupunctrice",
+    "forme1": "acupunteur‧trice",
+    "forme2": "acupunc⋅teur⋅trice",
+    "forme3": "acupuncteur‧e",
+    "forme4": "acupuncteur‧rice"
+  },
+  {
+    "MASC": "adjoint",
+    "FEM": "adjointe",
+    "forme1": "adjoint‧e",
+    "forme2": "adjoint⋅e",
+    "forme3": "adjoint‧e",
+    "forme4": "adjoint‧e"
+  },
+  {
+    "MASC": "adjoint administratif",
+    "FEM": "adjointe administrative",
+    "forme1": "adjoint‧e administratif‧ve",
+    "forme2": "adjoint⋅e administrati⋅f⋅ve",
+    "forme3": "adjoint‧e administratif‧ve",
+    "forme4": "adjoint‧e administratif‧ve"
+  },
+  {
+    "MASC": "administrateur",
+    "FEM": "administratrice",
+    "forme1": "administrateur‧trice",
+    "forme2": "administra‧teur‧trice",
+    "forme3": "administrateur‧e",
+    "forme4": "administrateur‧rice"
+  },
+  {
+    "MASC": "agent",
+    "FEM": "agente",
+    "forme1": "agent‧e",
+    "forme2": "agent⋅e",
+    "forme3": "agent‧e",
+    "forme4": "agent‧e"
+  },
+  {
+    "MASC": "agent immobilier",
+    "FEM": "agente immobilière",
+    "forme1": "agent‧e immobilier‧ère",
+    "forme2": "agent⋅e immobilièr⋅e",
+    "forme3": "agent‧e immobilier‧e",
+    "forme4": "agente‧e immobilier‧ère"
+  },
+  {
+    "MASC": "agriculteur",
+    "FEM": "agricultrice",
+    "forme1": "agriculteur‧trice",
+    "forme2": "agricul⋅teur⋅trice",
+    "forme3": null,
+    "forme4": "agriculteur‧rice"
+  },
+  {
+    "MASC": "agronome",
+    "FEM": "agronome",
+    "forme1": "agronome",
+    "forme2": "agronome",
+    "forme3": "agronome",
+    "forme4": "agronome"
+  },
+  {
+    "MASC": "agresseur",
+    "FEM": "agresseuse",
+    "forme1": "agresseur‧euse",
+    "forme2": "agresseu⋅r⋅se",
+    "forme3": "agresseur‧e",
+    "forme4": "agresseur‧euse"
+  },
+  {
+    "MASC": "aide-comptable",
+    "FEM": "aide-comptable",
+    "forme1": "aide-comptable",
+    "forme2": "aide-comptable",
+    "forme3": "aide-comptable",
+    "forme4": "aide-comptable"
+  },
+  {
+    "MASC": "aide-mécanicien",
+    "FEM": "aide-mécanicienne",
+    "forme1": "aide-mécanicien‧ne",
+    "forme2": "aide-mécanicien⋅ne",
+    "forme3": "aide-mécanicienne",
+    "forme4": "aide-mécanicienne"
+  },
+  {
+    "MASC": "ajusteur",
+    "FEM": "ajusteuse",
+    "forme1": "ajusteur‧euse",
+    "forme2": "ajusteu⋅r⋅se",
+    "forme3": null,
+    "forme4": "ajusteur‧euse"
+  },
+  {
+    "MASC": "ambulancier",
+    "FEM": "ambulancière",
+    "forme1": "ambulancier‧ère",
+    "forme2": "ambulancier⋅e",
+    "forme3": "ambulancier‧e",
+    "forme4": "amb"
+  },
+  {
+    "MASC": "ambassadeur",
+    "FEM": "ambassadrice",
+    "forme1": "ambassadeur‧drice",
+    "forme2": "ambassadeur⋅drice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ambassadeur",
+    "FEM": "ambassaderesse",
+    "forme1": "ambassadeur‧deresse",
+    "forme2": "ambassadeur",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "analyste financier",
+    "FEM": "analyste financière",
+    "forme1": "analyste financier‧ère",
+    "forme2": "analyste financier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "animateur",
+    "FEM": "animatrice",
+    "forme1": "animateur‧trice",
+    "forme2": "anima⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "annonceur",
+    "FEM": "annonceuse",
+    "forme1": "annonceur‧euse",
+    "forme2": "annonceu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "apiculteur",
+    "FEM": "apicultrice",
+    "forme1": "apiculteur‧trice",
+    "forme2": "apicul⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "appariteur",
+    "FEM": "apparitrice",
+    "forme1": "appariteur‧trice",
+    "forme2": "appari⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "applicateur",
+    "FEM": "applicatrice",
+    "forme1": "applicateur‧trice",
+    "forme2": "applica⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "apprenti",
+    "FEM": "apprentie",
+    "forme1": "apprenti‧e",
+    "forme2": "apprenti⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "arbitre",
+    "FEM": "arbitre",
+    "forme1": "arbitre",
+    "forme2": "arbitre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "arboriculteur",
+    "FEM": "arboricultrice",
+    "forme1": "arboriculteur‧trice",
+    "forme2": "arboricul⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "archéologue",
+    "FEM": "archéologue",
+    "forme1": "archéologue",
+    "forme2": "archéologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "architecte",
+    "FEM": "architecte",
+    "forme1": "architecte",
+    "forme2": "architecte",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "archiviste",
+    "FEM": "archiviste",
+    "forme1": "archiviste",
+    "forme2": "archiviste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "arpenteur-géomètre",
+    "FEM": "arpenteuse-géomètre",
+    "forme1": "arpenteur‧trice-géomètre",
+    "forme2": "arpenteur⋅se-géomètre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "artisan",
+    "FEM": "artisane",
+    "forme1": "artisan‧e",
+    "forme2": "artisan⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "assembleur",
+    "FEM": "assembleuse",
+    "forme1": "assembleur‧se",
+    "forme2": "assembleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "assesseur",
+    "FEM": "assesseuse",
+    "forme1": "assesseur‧se",
+    "forme2": "assesseu‧r‧se",
+    "forme3": "assesseur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "assistant",
+    "FEM": "assistante",
+    "forme1": "assistant‧e",
+    "forme2": "assistant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "associé",
+    "FEM": "associée",
+    "forme1": "associé‧e",
+    "forme2": "associé⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "assureur",
+    "FEM": "assureuse",
+    "forme1": "assureur‧e",
+    "forme2": "assureu⋅r⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "astrologue",
+    "FEM": "astrologue",
+    "forme1": "astrologue",
+    "forme2": "astrologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "astronome",
+    "FEM": "astronome",
+    "forme1": "astronome",
+    "forme2": "astronome",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "attaché",
+    "FEM": "attachée",
+    "forme1": "attaché‧e",
+    "forme2": "attaché⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "auteur",
+    "FEM": "auteure / autrice",
+    "forme1": "auteur‧e",
+    "forme2": "au⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "auxiliaire",
+    "FEM": "auxiliaire",
+    "forme1": "auxiliaire",
+    "forme2": "auxiliaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "aviculteur",
+    "FEM": "avicultrice",
+    "forme1": "aviculteur‧trice",
+    "forme2": "avicul⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "avocat",
+    "FEM": "avocate",
+    "forme1": "avocat‧e",
+    "forme2": "avocat⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ayant droit",
+    "FEM": "ayant droit",
+    "forme1": "ayant droit",
+    "forme2": "un⋅e ayant droit",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bagagiste",
+    "FEM": "bagagiste",
+    "forme1": "bagagiste",
+    "forme2": "bagagiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "banquier",
+    "FEM": "banquière",
+    "forme1": "banquier‧ère",
+    "forme2": "banquièr⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bibliothécaire",
+    "FEM": "bibliothécaire",
+    "forme1": "bibliothécaire",
+    "forme2": "bibliothécaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bijoutier",
+    "FEM": "bijoutière",
+    "forme1": "bijoutier‧ère",
+    "forme2": "bijoutièr⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "biologiste",
+    "FEM": "biologiste",
+    "forme1": "biologiste",
+    "forme2": "biologiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "blanchisseur",
+    "FEM": "blanchisseuse",
+    "forme1": "blanchisseur‧euse",
+    "forme2": "blanchisseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "botaniste",
+    "FEM": "botaniste",
+    "forme1": "botaniste",
+    "forme2": "botaniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bottier",
+    "FEM": "bottière",
+    "forme1": "bottier‧ère",
+    "forme2": "bottier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "boucher",
+    "FEM": "bouchère",
+    "forme1": "boucher‧ère",
+    "forme2": "bouch⋅er⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "boulanger",
+    "FEM": "boulangère",
+    "forme1": "boulanger‧ère",
+    "forme2": "boulanger⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "boursier",
+    "FEM": "boursière",
+    "forme1": "boursier‧ère",
+    "forme2": "boursier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "boxeur",
+    "FEM": "boxeuse",
+    "forme1": "boxeur‧euse",
+    "forme2": "boxeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "brigadier",
+    "FEM": "brigadière",
+    "forme1": "brigardier‧ère",
+    "forme2": "bigadier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "briqueteur-maçon",
+    "FEM": "briqueteuse-maçonne",
+    "forme1": "briqueteur‧euse-maçon‧ne",
+    "forme2": "briqueteur⋅euse-maçon⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bruiteur",
+    "FEM": "bruiteuse",
+    "forme1": "bruiteur‧euse",
+    "forme2": "bruiteu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "buandier",
+    "FEM": "buandière",
+    "forme1": "buandier‧euse",
+    "forme2": "buandier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "bûcheron",
+    "FEM": "bûcheronne",
+    "forme1": "bûcheron‧ne",
+    "forme2": "bucheron⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cadet",
+    "FEM": "cadette",
+    "forme1": "cadet‧te",
+    "forme2": "cadet⋅te",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cadre",
+    "FEM": "cadre",
+    "forme1": "cadre",
+    "forme2": "cadre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cadreur",
+    "FEM": "cadreuse",
+    "forme1": "cadreur‧euse",
+    "forme2": "cadreu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "caissier",
+    "FEM": "caissière",
+    "forme1": "caissier‧ère",
+    "forme2": "caissier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cambiste",
+    "FEM": "cambiste",
+    "forme1": "cambiste",
+    "forme2": "cambiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "camelot",
+    "FEM": "camelot",
+    "forme1": "camelot",
+    "forme2": "camelot",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "camionneur",
+    "FEM": "camionneuse",
+    "forme1": "camionneur‧euse",
+    "forme2": "camionneu⋅r⋅se",
+    "forme3": "cammioneure",
+    "forme4": null
+  },
+  {
+    "MASC": "cardiologue",
+    "FEM": "cardiologue",
+    "forme1": "cardiologue",
+    "forme2": "cardiologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cartographe",
+    "FEM": "cartographe",
+    "forme1": "cartographe",
+    "forme2": "cartographe",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cascadeur",
+    "FEM": "cascadeuse",
+    "forme1": "cascadeur‧deuse",
+    "forme2": "cascadeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "catalogueur",
+    "FEM": "catalogueuse",
+    "forme1": "catalogueur‧euse",
+    "forme2": "catalogueur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cégépien",
+    "FEM": "cégépienne",
+    "forme1": "cégépien‧enne",
+    "forme2": "cégépie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chanteur",
+    "FEM": "chanteuse; cantatrice",
+    "forme1": "chanteur‧teuse",
+    "forme2": "chanteu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "charpentier",
+    "FEM": "charpentière",
+    "forme1": "charpentier‧ère",
+    "forme2": "charpentier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chasseur de têtes",
+    "FEM": "chasseuse de têtes",
+    "forme1": "chasseur‧se de têtes",
+    "forme2": "chass‧eur⋅euse de tête",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chauffeur",
+    "FEM": "chauffeuse",
+    "forme1": "chauffeur‧euse",
+    "forme2": "chauffeu⋅r⋅se",
+    "forme3": "chauffeur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "chef",
+    "FEM": "cheffe",
+    "forme1": "chef‧fe",
+    "forme2": "chef⋅fe",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chercheur",
+    "FEM": "chercheuse",
+    "forme1": "chercheur‧euse",
+    "forme2": "chercheu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chiropraticien",
+    "FEM": "chiropraticienne",
+    "forme1": "chiropractien‧ne",
+    "forme2": "chiropracticie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chirurgien",
+    "FEM": "chirurgienne",
+    "forme1": "chirurgien‧ne",
+    "forme2": "chirurgie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chômeur",
+    "FEM": "chômeuse",
+    "forme1": "chômeur‧euse",
+    "forme2": "chômeu⋅r⋅se / privé⋅e⋅ d'emploi",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chorégraphe",
+    "FEM": "chorégraphe",
+    "forme1": "chorégraphe",
+    "forme2": "chorégraphe",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "chroniqueur",
+    "FEM": "chroniqueuse",
+    "forme1": "chroniqueur‧euse",
+    "forme2": "chroniqueu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "coiffeur",
+    "FEM": "coiffeuse",
+    "forme1": "coiffeur‧euse",
+    "forme2": "coiffeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "comédien",
+    "FEM": "comédienne",
+    "forme1": "comédien‧ne",
+    "forme2": "comédie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "commis",
+    "FEM": "commis⋅e",
+    "forme1": "commis‧e",
+    "forme2": "commis⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "commis-vendeur",
+    "FEM": "commis-vendeuse",
+    "forme1": "commis-vendeur‧euse",
+    "forme2": "commis⋅e-vendeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "commissaire",
+    "FEM": "commissaire",
+    "forme1": "commissaire",
+    "forme2": "commissaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "communicateur",
+    "FEM": "communicatrice",
+    "forme1": "communicateur‧trice",
+    "forme2": "communica⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "communicant",
+    "FEM": "communicante",
+    "forme1": "communicant‧e",
+    "forme2": "communicant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "compositeur",
+    "FEM": "compositrice",
+    "forme1": "compositeur‧trice",
+    "forme2": "composi⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "concepteur",
+    "FEM": "conceptrice",
+    "forme1": "concepteur‧trice",
+    "forme2": "concep⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "concierge",
+    "FEM": "concierge",
+    "forme1": "concierge",
+    "forme2": "concierge",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "conducteur",
+    "FEM": "conductrice",
+    "forme1": "conducteur‧trice",
+    "forme2": "conduc⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "conférencier",
+    "FEM": "conférencière",
+    "forme1": "conférencier‧ère",
+    "forme2": "conférencier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "conseil",
+    "FEM": "conseil",
+    "forme1": "conseil",
+    "forme2": "conseil",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "conseiller",
+    "FEM": "conseillère",
+    "forme1": "conseiller‧ère",
+    "forme2": "conseiller⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "conservateur",
+    "FEM": "conservatrice",
+    "forme1": "conservateur‧trice",
+    "forme2": "conserva⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "consul",
+    "FEM": "consule",
+    "forme1": "consul‧e",
+    "forme2": "consul⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "consultant",
+    "FEM": "consultante",
+    "forme1": "consultant‧e",
+    "forme2": "consultant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "contractuel",
+    "FEM": "contractuelle",
+    "forme1": "contractuel‧le",
+    "forme2": "contractue⋅l⋅le",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "contremaître",
+    "FEM": "contremaîtresse",
+    "forme1": "contremaître‧sse",
+    "forme2": "contremaître⋅sse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "contrôleur",
+    "FEM": "contrôleuse",
+    "forme1": "contrôleur‧leuse",
+    "forme2": "contrôleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "coopérant",
+    "FEM": "coopérante",
+    "forme1": "coopérant‧e",
+    "forme2": "coopérant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "coordonnateur",
+    "FEM": "coordonnatrice",
+    "forme1": "coordonateur‧trice",
+    "forme2": "coordona⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "copiste",
+    "FEM": "copiste",
+    "forme1": "copiste",
+    "forme2": "copiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cordonnier",
+    "FEM": "cordonnière",
+    "forme1": "cordonnier‧ère",
+    "forme2": "cordonnier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "coroner",
+    "FEM": "coroner",
+    "forme1": "coroner",
+    "forme2": "coroner",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "correcteur",
+    "FEM": "correctrice",
+    "forme1": "correcteur‧trice",
+    "forme2": "correc⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "correspondancier",
+    "FEM": "correspondancière",
+    "forme1": "correspondancier‧ère",
+    "forme2": "correspondancier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "courrier",
+    "FEM": "courrière",
+    "forme1": "courrier‧ère",
+    "forme2": "courrier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "courtier",
+    "FEM": "courtière",
+    "forme1": "courtier‧ère",
+    "forme2": "courtier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "couseur",
+    "FEM": "couseuse",
+    "forme1": "couseur‧euse",
+    "forme2": "couseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "couturier",
+    "FEM": "couturière",
+    "forme1": "couturier‧ère",
+    "forme2": "couturier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "couvreur",
+    "FEM": "couvreuse",
+    "forme1": "couvreur‧euse",
+    "forme2": "couvreu⋅r⋅euse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "créateur",
+    "FEM": "créatrice",
+    "forme1": "créateur‧trice",
+    "forme2": "créa⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "croupier",
+    "FEM": "croupière",
+    "forme1": "croupier‧ère",
+    "forme2": "croupier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cuisinier",
+    "FEM": "cuisinière",
+    "forme1": "cuisinier‧ère",
+    "forme2": "cuisinier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cultivateur",
+    "FEM": "cultivatrice",
+    "forme1": "cultivateur‧trice",
+    "forme2": "cultiva⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "citoyen",
+    "FEM": "citoyenne",
+    "forme1": "citoyen‧ne",
+    "forme2": "citoye‧n‧ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "danseur",
+    "FEM": "danseuse",
+    "forme1": "danseur‧euse",
+    "forme2": "danseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "danseur de ballet",
+    "FEM": "ballerine; danseuse de ballet",
+    "forme1": "danseur‧euse de ballet",
+    "forme2": "ballerine/danseu⋅r⋅se de ballet",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "débardeur",
+    "FEM": "débardeuse",
+    "forme1": "débardeur‧euse",
+    "forme2": "débardeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "débinarisant",
+    "FEM": "débinarisante",
+    "forme1": "débinarisant‧e",
+    "forme2": "débinarisant‧e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "débosseleur",
+    "FEM": "débosseleuse",
+    "forme1": "débosseleur‧euse",
+    "forme2": "débosseleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "décorateur",
+    "FEM": "décoratrice",
+    "forme1": "décorateur‧trice",
+    "forme2": "décora⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "défendeur",
+    "FEM": "défenderesse (droit)",
+    "forme1": "défendeur‧resse",
+    "forme2": "défend⋅eur⋅eresse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "défenseur",
+    "FEM": "défenseuse",
+    "forme1": "défenseur‧euse",
+    "forme2": "défenseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "délateur",
+    "FEM": "délatrice",
+    "forme1": "délateur‧trice",
+    "forme2": "déla⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "délégué",
+    "FEM": "déléguée",
+    "forme1": "délégué‧e",
+    "forme2": "délégué⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "demandeur",
+    "FEM": "demanderesse",
+    "forme1": "demandeur‧eresse",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "demandeur",
+    "FEM": "demandeuse",
+    "forme1": "demandeur‧euse",
+    "forme2": "demand.eur.euse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "déménageur",
+    "FEM": "déménageuse",
+    "forme1": "démanageur‧euse",
+    "forme2": "déménageu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "démonstrateur",
+    "FEM": "démonstratrice",
+    "forme1": "démonstrateur‧trice",
+    "forme2": "démonstra⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "dentiste",
+    "FEM": "dentiste",
+    "forme1": "dentiste",
+    "forme2": "dentiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "denturologiste",
+    "FEM": "denturologiste",
+    "forme1": "denturologiste",
+    "forme2": "denturologiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "dépanneur",
+    "FEM": "dépanneuse",
+    "forme1": "dépanneur‧euse",
+    "forme2": "dépanneu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "député",
+    "FEM": "députée",
+    "forme1": "député‧e",
+    "forme2": "député⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "dessinateur",
+    "FEM": "dessinatrice",
+    "forme1": "dessinateur‧trice",
+    "forme2": "dessina⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "détective",
+    "FEM": "détective",
+    "forme1": "détective",
+    "forme2": "détective",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "détenteur",
+    "FEM": "détentrice",
+    "forme1": "détenteur‧trice",
+    "forme2": "déten⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "diététiste",
+    "FEM": "diététiste",
+    "forme1": "diététiste",
+    "forme2": "diététiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "diplomate",
+    "FEM": "diplomate",
+    "forme1": "diplomate",
+    "forme2": "diplomate",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "diplômé",
+    "FEM": "diplômée",
+    "forme1": "diplômé‧e",
+    "forme2": "diplômé⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "directeur",
+    "FEM": "directrice",
+    "forme1": "directeur‧trice",
+    "forme2": "direc⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "dirigeant",
+    "FEM": "dirigeante",
+    "forme1": "dirigeant‧e",
+    "forme2": "dirigeant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "docteur",
+    "FEM": "docteure",
+    "forme1": "docteur‧e",
+    "forme2": "docteur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "docteur",
+    "FEM": "doctoresse",
+    "forme1": "docteur‧oresse",
+    "forme2": "doct‧eur‧oresse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "documentaliste",
+    "FEM": "documentaliste",
+    "forme1": "documentaliste",
+    "forme2": "documentaliste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "doyen",
+    "FEM": "doyenne",
+    "forme1": "doyen‧ne",
+    "forme2": "doye⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ébéniste",
+    "FEM": "ébéniste",
+    "forme1": "ébéniste",
+    "forme2": "ébéniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éboueur",
+    "FEM": "éboueuse",
+    "forme1": "éboueur‧euse",
+    "forme2": "éboueu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éclairagiste",
+    "FEM": "éclairagiste",
+    "forme1": "éclairagiste",
+    "forme2": "éclairagiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "économiste-conseil",
+    "FEM": "économiste-conseil",
+    "forme1": "économiste-conseil",
+    "forme2": "économiste-conseil",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "écrivain",
+    "FEM": "écrivaine",
+    "forme1": "écrivain‧e",
+    "forme2": "écrivain⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éditeur",
+    "FEM": "éditrice",
+    "forme1": "éditeur‧trice",
+    "forme2": "édi⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éditorialiste",
+    "FEM": "éditorialiste",
+    "forme1": "éditorialiste",
+    "forme2": "éditorialiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éducateur",
+    "FEM": "éducatrice",
+    "forme1": "éducateur‧trice",
+    "forme2": "éduca⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "électricien",
+    "FEM": "électricienne",
+    "forme1": "électricien‧ne",
+    "forme2": "électricie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "éleveur",
+    "FEM": "éleveuse",
+    "forme1": "éleveur‧euse",
+    "forme2": "éleveu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "emballeur",
+    "FEM": "emballeuse",
+    "forme1": "emballeur‧euse",
+    "forme2": "emballeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "embaumeur",
+    "FEM": "embaumeuse",
+    "forme1": "embaumeur‧euse",
+    "forme2": "embaumeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "émetteur",
+    "FEM": "émettrice",
+    "forme1": "émetteur‧trice",
+    "forme2": "émet⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "employeur",
+    "FEM": "employeuse",
+    "forme1": "employeur‧euse",
+    "forme2": "emplouey⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "emprunteur",
+    "FEM": "emprunteuse",
+    "forme1": "emprunteur‧teuse",
+    "forme2": "emprunteu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "enquêteur",
+    "FEM": "enquêtrice",
+    "forme1": "enquêteur‧trice",
+    "forme2": "enquê⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "enseignant",
+    "FEM": "enseignante",
+    "forme1": "enseignant‧e",
+    "forme2": "enseignant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "entraîneur",
+    "FEM": "entraîneuse",
+    "forme1": "entraîneur‧euse",
+    "forme2": "entraîneu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "entrepreneur",
+    "FEM": "entrepreneuse",
+    "forme1": "entrepreneur‧euse",
+    "forme2": "entrepreneu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ergothérapeute",
+    "FEM": "ergothérapeute",
+    "forme1": "ergothérapeute",
+    "forme2": "ergothérapeute",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "essayeur",
+    "FEM": "essayeuse",
+    "forme1": "essayeur‧euse",
+    "forme2": "essayeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "esthéticien",
+    "FEM": "esthéticienne",
+    "forme1": "esthéticienne",
+    "forme2": "esthéticie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "estimateur",
+    "FEM": "estimatrice",
+    "forme1": "estimateur‧trice",
+    "forme2": "estima⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "étalagiste",
+    "FEM": "étalagiste",
+    "forme1": "étalagiste",
+    "forme2": "étalagiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "évaluateur",
+    "FEM": "évaluatrice",
+    "forme1": "évaluateur‧trice",
+    "forme2": "évalua⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "examinateur",
+    "FEM": "examinatrice",
+    "forme1": "examinateur‧trice",
+    "forme2": "examina⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "expert",
+    "FEM": "experte",
+    "forme1": "expert‧e",
+    "forme2": "expert⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "expert-comptable",
+    "FEM": "experte-comptable",
+    "forme1": "expert‧e-comptable",
+    "forme2": "expert⋅e-comptable",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "exploitant",
+    "FEM": "exploitante",
+    "forme1": "exploitant‧e",
+    "forme2": "exploitant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "fabricant",
+    "FEM": "fabricante",
+    "forme1": "fabricant‧e",
+    "forme2": "fabricant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "facteur",
+    "FEM": "factrice",
+    "forme1": "facteur‧trice",
+    "forme2": "fac⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ferblantier",
+    "FEM": "ferblantière",
+    "forme1": "ferblantier‧ère",
+    "forme2": "ferblantier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ferrailleur",
+    "FEM": "ferrailleuse",
+    "forme1": "ferrailleur‧euse",
+    "forme2": "ferrailleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "financier",
+    "FEM": "financière",
+    "forme1": "financier‧ère",
+    "forme2": "financier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "fleuriste",
+    "FEM": "fleuriste",
+    "forme1": "fleuriste",
+    "forme2": "fleuriste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "fondeur",
+    "FEM": "fondeuse",
+    "forme1": "fondeur‧euse",
+    "forme2": "fondeu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "foreur",
+    "FEM": "foreuse",
+    "forme1": "foreur‧euse",
+    "forme2": "foreu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "forgeron",
+    "FEM": "forgeronne",
+    "forme1": "forgeron‧ne",
+    "forme2": "forgeron⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "formateur",
+    "FEM": "formatrice",
+    "forme1": "formateur‧trice",
+    "forme2": "forma⋅teur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "fournisseur",
+    "FEM": "fournisseuse",
+    "forme1": "fournisseur‧euse",
+    "forme2": "fournisseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "fraiseur",
+    "FEM": "fraiseuse",
+    "forme1": "fraiseur‧euse",
+    "forme2": "fraiseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "franchiseur",
+    "FEM": "franchiseuse",
+    "forme1": "franchiseur‧euse",
+    "forme2": "franchiseu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "garde",
+    "FEM": "garde",
+    "forme1": "garde",
+    "forme2": "garde",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "garde forestier",
+    "FEM": "garde forestière",
+    "forme1": "garde forestier‧ère",
+    "forme2": "garde forestier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "gardien",
+    "FEM": "gardienne",
+    "forme1": "gardien‧ne",
+    "forme2": "gardie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "généticien",
+    "FEM": "généticienne",
+    "forme1": "généticien‧ne",
+    "forme2": "généticie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "géologue",
+    "FEM": "géologue",
+    "forme1": "géologue",
+    "forme2": "géologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "géomètre",
+    "FEM": "géomètre",
+    "forme1": "géomètre",
+    "forme2": "géomètre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "géophysicien",
+    "FEM": "géophysicienne",
+    "forme1": "géophysicien‧ne",
+    "forme2": "géophysicie⋅n⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "gérant",
+    "FEM": "gérante",
+    "forme1": "gérant‧e",
+    "forme2": "gérant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "gestionnaire",
+    "FEM": "gestionnaire",
+    "forme1": "gestionnaire",
+    "forme2": "gestionnaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "gouverneur",
+    "FEM": "gouverneure",
+    "forme1": "gouverneur‧e",
+    "forme2": "gouverneur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "graveur",
+    "FEM": "graveuse",
+    "forme1": "graveur‧euse",
+    "forme2": "graveu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "greffier",
+    "FEM": "greffière",
+    "forme1": "greffier‧ère",
+    "forme2": "greffier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "guichetier",
+    "FEM": "guichetière",
+    "forme1": "guichetier‧ère",
+    "forme2": "guichetier⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "guide",
+    "FEM": "guide",
+    "forme1": "guide",
+    "forme2": "guide",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "habilleur",
+    "FEM": "habilleuse",
+    "forme1": "habilleur‧euse",
+    "forme2": "habilleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "horloger",
+    "FEM": "horlogère",
+    "forme1": "horloger‧ère",
+    "forme2": "horloger⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "horticulteur",
+    "FEM": "horticultrice",
+    "forme1": "horticulteur‧trice",
+    "forme2": "horticulteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "hôte (qui reçoit)",
+    "FEM": "hôtesse",
+    "forme1": "hôte‧sse",
+    "forme2": "hôte; hôte⋅sse",
+    "forme3": "hôte",
+    "forme4": null
+  },
+  {
+    "MASC": "hôte (qui est reçu‧e)",
+    "FEM": "hôte",
+    "forme1": "hôte",
+    "forme2": "hôte; hôte⋅sse",
+    "forme3": "hôte",
+    "forme4": null
+  },
+  {
+    "MASC": "hôtelier",
+    "FEM": "hôtelière",
+    "forme1": "hôtelier‧ère",
+    "forme2": "hôtelier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "huileur",
+    "FEM": "huileuse",
+    "forme1": "huileur‧euse",
+    "forme2": "huileur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "huissier",
+    "FEM": "huissière",
+    "forme1": "huissier‧ère",
+    "forme2": "huissier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "hygiéniste",
+    "FEM": "hygiéniste",
+    "forme1": "hygiéniste",
+    "forme2": "hygiéniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "illustrateur",
+    "FEM": "illustratrice",
+    "forme1": "illustrateur‧trice",
+    "forme2": "illustrateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "imprésario",
+    "FEM": "imprésario",
+    "forme1": "imprésario",
+    "forme2": "imprésario",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "imprimeur",
+    "FEM": "imprimeuse",
+    "forme1": "imprimeur‧euse",
+    "forme2": "imprimeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "industriel",
+    "FEM": "industrielle",
+    "forme1": "industriel‧le",
+    "forme2": "insdustriel⋅le",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "infirmier",
+    "FEM": "infirmière",
+    "forme1": "infirmier‧ère",
+    "forme2": "infirmier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "infographiste",
+    "FEM": "infographiste",
+    "forme1": "infographiste",
+    "forme2": "infographiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "informaticien",
+    "FEM": "informaticienne",
+    "forme1": "informaticien‧ne",
+    "forme2": "informaticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ingénieur",
+    "FEM": "ingénieure",
+    "forme1": "ingénieur‧e",
+    "forme2": "ingénieur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ingénieur chimiste",
+    "FEM": "ingénieure chimiste",
+    "forme1": "ingénieur‧e chimiste",
+    "forme2": "ingénieur⋅e chimiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ingénieur civil",
+    "FEM": "ingénieure civile",
+    "forme1": "ingénieur‧e civile",
+    "forme2": "ingénieur⋅e civil⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ingénieur forestier",
+    "FEM": "ingénieure forestière",
+    "forme1": "ingénieur‧e forestière",
+    "forme2": "ingénieur⋅e forestier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "inspecteur",
+    "FEM": "inspectrice",
+    "forme1": "inspecteur‧trice",
+    "forme2": "inspecteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "instituteur",
+    "FEM": "institutrice",
+    "forme1": "instituteur‧trice",
+    "forme2": "instituteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "instructeur",
+    "FEM": "instructrice",
+    "forme1": "instructeur‧trice",
+    "forme2": "instructeur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "intendant",
+    "FEM": "intendante",
+    "forme1": "intendant‧e",
+    "forme2": "intendant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "intérimaire",
+    "FEM": "intérimaire",
+    "forme1": "intérimaire",
+    "forme2": "intérimaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "interlocuteur",
+    "FEM": "interlocutrice",
+    "forme1": "interlocuteur‧trice",
+    "forme2": "interlocuteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "interprète",
+    "FEM": "interprète",
+    "forme1": "interprète",
+    "forme2": "interprète",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "intervenant",
+    "FEM": "intervenante",
+    "forme1": "intervenant‧e",
+    "forme2": "intervenant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "intervieweur",
+    "FEM": "intervieweuse",
+    "forme1": "intervieweur‧euse",
+    "forme2": "intervieweur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "investisseur",
+    "FEM": "investisseuse",
+    "forme1": "investisseur‧euse",
+    "forme2": "investisseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "jardinier",
+    "FEM": "jardinière",
+    "forme1": "jardinier‧ère",
+    "forme2": "jardinier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "journaliste",
+    "FEM": "journaliste",
+    "forme1": "journaliste",
+    "forme2": "journaliste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "journaliste sportif",
+    "FEM": "journaliste sportive",
+    "forme1": "journaliste sportif‧ve",
+    "forme2": "journaliste sportif⋅ve",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "juge",
+    "FEM": "juge",
+    "forme1": "juge",
+    "forme2": "juge",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "juré",
+    "FEM": "jurée",
+    "forme1": "juré‧e",
+    "forme2": "juré⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "juriste",
+    "FEM": "juriste",
+    "forme1": "juriste",
+    "forme2": "juriste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "lamineur",
+    "FEM": "lamineuse",
+    "forme1": "lamineur‧euse",
+    "forme2": "lamineur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "langagier",
+    "FEM": "langagière",
+    "forme1": "langagier‧ère",
+    "forme2": "langagier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "lecteur",
+    "FEM": "lectrice",
+    "forme1": "lecteur‧trice",
+    "forme2": "lecteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "législateur",
+    "FEM": "législatrice",
+    "forme1": "législateur‧trice",
+    "forme2": "légalisateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "lieutenant-gouverneur",
+    "FEM": "lieutenante-gouverneure",
+    "forme1": "lieutenant‧e-gouverneur‧e",
+    "forme2": "lieutenant⋅e-gourverneur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "linguiste",
+    "FEM": "linguiste",
+    "forme1": "linguiste",
+    "forme2": "linguiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "machiniste",
+    "FEM": "machiniste",
+    "forme1": "machiniste",
+    "forme2": "machiniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "maçon",
+    "FEM": "maçonne",
+    "forme1": "maçon‧ne",
+    "forme2": "maçon⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "magasinier",
+    "FEM": "magasinière",
+    "forme1": "magasinier‧ère",
+    "forme2": "magasinier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "magistrat",
+    "FEM": "magistrate",
+    "forme1": "magistrat‧e",
+    "forme2": "magistrat⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "maire",
+    "FEM": "maire",
+    "forme1": "maire",
+    "forme2": "maire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "maître",
+    "FEM": "maître; maîtresse",
+    "forme1": "maître‧sse",
+    "forme2": "maître⋅sse",
+    "forme3": "maître",
+    "forme4": null
+  },
+  {
+    "MASC": "malfaiteur",
+    "FEM": "malfaitrice",
+    "forme1": "malfaiteur‧trice",
+    "forme2": "malfaiteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mannequin",
+    "FEM": "mannequin",
+    "forme1": "mannequin",
+    "forme2": "mannequin",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "manœuvre",
+    "FEM": "manœuvre",
+    "forme1": "manœuvre",
+    "forme2": "manœuvre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "maquilleur",
+    "FEM": "maquilleuse",
+    "forme1": "maquilleur‧euse",
+    "forme2": "maquilleur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "maraîcher",
+    "FEM": "maraîchère",
+    "forme1": "maraîcher‧ère",
+    "forme2": "maraîcher⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "marchand",
+    "FEM": "marchande",
+    "forme1": "marchand‧e",
+    "forme2": "marchand⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "marguillier",
+    "FEM": "marguillière",
+    "forme1": "marguillier‧ère",
+    "forme2": "marguillier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "marin",
+    "FEM": "marin",
+    "forme1": "marin",
+    "forme2": "marin",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "masseur",
+    "FEM": "masseuse",
+    "forme1": "masseur‧euse",
+    "forme2": "masseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "matelot",
+    "FEM": "matelot",
+    "forme1": "matelot",
+    "forme2": "matelot",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mathématicien",
+    "FEM": "mathématicienne",
+    "forme1": "mathématicien‧ne",
+    "forme2": "mathématicien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mécanicien",
+    "FEM": "mécanicienne",
+    "forme1": "mécanicien‧ne",
+    "forme2": "mécanicien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mécène",
+    "FEM": "mécène",
+    "forme1": "mécène",
+    "forme2": "mécène",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "médecin",
+    "FEM": "médecin",
+    "forme1": "médecin",
+    "forme2": "médecin",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "médiateur",
+    "FEM": "médiatrice",
+    "forme1": "médiateur‧trice",
+    "forme2": "médiateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "membre",
+    "FEM": "membre",
+    "forme1": "membre",
+    "forme2": "membre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "menuisier",
+    "FEM": "menuisière",
+    "forme1": "menuisier‧ère",
+    "forme2": "menuisi‧er⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "messager",
+    "FEM": "messagère",
+    "forme1": "messager‧ère",
+    "forme2": "messager⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "météorologue",
+    "FEM": "météorologue",
+    "forme1": "météorologue",
+    "forme2": "météorologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "metteur en scène",
+    "FEM": "metteuse en scène",
+    "forme1": "metteur‧euse en scène",
+    "forme2": "metteur⋅se en scène",
+    "forme3": "metteur‧e en scène",
+    "forme4": null
+  },
+  {
+    "MASC": "meunier",
+    "FEM": "meunière",
+    "forme1": "meunier",
+    "forme2": "meunier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mineur",
+    "FEM": "mineuse",
+    "forme1": "mineur‧euse",
+    "forme2": "mineur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ministre",
+    "FEM": "ministre",
+    "forme1": "ministre",
+    "forme2": "ministre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "modiste",
+    "FEM": "modiste",
+    "forme1": "modiste",
+    "forme2": "modiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "moniteur",
+    "FEM": "monitrice",
+    "forme1": "moniteur‧trice",
+    "forme2": "moniteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "monteur",
+    "FEM": "monteuse",
+    "forme1": "monteur‧teuse",
+    "forme2": "monteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "narrateur",
+    "FEM": "narratrice",
+    "forme1": "narrateur‧trice",
+    "forme2": "narrateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "naturopraticien",
+    "FEM": "naturopraticienne",
+    "forme1": "naturopraticien‧ne",
+    "forme2": "naturopracticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "navigateur",
+    "FEM": "navigatrice",
+    "forme1": "navigateur‧trice",
+    "forme2": "navigateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "nettoyeur",
+    "FEM": "nettoyeuse",
+    "forme1": "nettoyeur‧euse",
+    "forme2": "nettoyeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "notaire",
+    "FEM": "notaire",
+    "forme1": "notaire",
+    "forme2": "notaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "officier",
+    "FEM": "officière",
+    "forme1": "officier‧ère",
+    "forme2": "officier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "omnipraticien",
+    "FEM": "omnipraticienne",
+    "forme1": "omnipraticien‧ne",
+    "forme2": "omnipraticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "opérateur",
+    "FEM": "opératrice",
+    "forme1": "opérateur‧trice",
+    "forme2": "opérateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "opticien",
+    "FEM": "opticienne",
+    "forme1": "opticien‧ne",
+    "forme2": "opticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "orateur",
+    "FEM": "oratrice",
+    "forme1": "orateur‧trice",
+    "forme2": "orateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "orchestrateur",
+    "FEM": "orchestratrice",
+    "forme1": "orchestrateur‧trice",
+    "forme2": "orchestrateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "orfèvre",
+    "FEM": "orfèvre",
+    "forme1": "orfèvre",
+    "forme2": "orfèvre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "orienteur",
+    "FEM": "orienteuse",
+    "forme1": "orienteur‧euse",
+    "forme2": "orienteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ouvrier",
+    "FEM": "ouvrière",
+    "forme1": "ouvrier‧ère",
+    "forme2": "ouvrier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pâtissier",
+    "FEM": "pâtissière",
+    "forme1": "pâtissier‧ère",
+    "forme2": "patissier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "patrouilleur",
+    "FEM": "patrouilleuse",
+    "forme1": "patrouilleur‧euse",
+    "forme2": "patrouilleur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "paysagiste",
+    "FEM": "paysagiste",
+    "forme1": "paysagiste",
+    "forme2": "paysagiste",
+    "forme3": "paysagiste",
+    "forme4": null
+  },
+  {
+    "MASC": "paysan",
+    "FEM": "paysanne",
+    "forme1": "paysan‧ne",
+    "forme2": "pays‧an‧anne",
+    "forme3": "paysan‧ne",
+    "forme4": null
+  },
+  {
+    "MASC": "pédologue",
+    "FEM": "pédologue",
+    "forme1": "pédologue",
+    "forme2": "pédologue",
+    "forme3": "pédologue",
+    "forme4": null
+  },
+  {
+    "MASC": "peintre",
+    "FEM": "peintre",
+    "forme1": "peintre",
+    "forme2": "peintre",
+    "forme3": "peintre",
+    "forme4": null
+  },
+  {
+    "MASC": "peintre",
+    "FEM": "peintresse",
+    "forme1": "peintre‧esse",
+    "forme2": "peintr‧e‧esse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "percepteur",
+    "FEM": "perceptrice",
+    "forme1": "percepteur‧trice",
+    "forme2": "percepteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "perruquier",
+    "FEM": "perruquière",
+    "forme1": "perruquier‧ère",
+    "forme2": "perruquier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pharmacien",
+    "FEM": "pharmacienne",
+    "forme1": "pharmacien‧ne",
+    "forme2": "pharmacien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "physicien",
+    "FEM": "physicienne",
+    "forme1": "physicien‧ne",
+    "forme2": "physicien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "physiothérapeute",
+    "FEM": "physiothérapeute",
+    "forme1": "physiothérapeute",
+    "forme2": "physiothérapeute",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pigiste",
+    "FEM": "pigiste",
+    "forme1": "pigiste",
+    "forme2": "pigiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pilote",
+    "FEM": "pilote",
+    "forme1": "pilote",
+    "forme2": "pilote",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pisciculteur",
+    "FEM": "piscicultrice",
+    "forme1": "pisciculteur‧trice",
+    "forme2": "pisciculteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "plâtrier",
+    "FEM": "plâtrière",
+    "forme1": "plâtrier‧ère",
+    "forme2": "platrier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "plombier",
+    "FEM": "plombière",
+    "forme1": "plombier‧ère",
+    "forme2": "plombie⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "plongeur",
+    "FEM": "plongeuse",
+    "forme1": "plongeur‧euse",
+    "forme2": "plongeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "poète",
+    "FEM": "poète",
+    "forme1": "poète",
+    "forme2": "poète",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "policier",
+    "FEM": "policière",
+    "forme1": "policier‧ère",
+    "forme2": "policier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "polisseur",
+    "FEM": "polisseuse",
+    "forme1": "polisseur‧euse",
+    "forme2": "polisseur⋅polisseuse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pompier",
+    "FEM": "pompière",
+    "forme1": "pompier‧ère",
+    "forme2": "pompier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "porte-parole",
+    "FEM": "porte-parole",
+    "forme1": "porte-parole",
+    "forme2": "porte-parole",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "poseur",
+    "FEM": "poseuse",
+    "forme1": "poseur‧euse",
+    "forme2": "poseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "postulant",
+    "FEM": "postulante",
+    "forme1": "postulant‧e",
+    "forme2": "postulant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "potier",
+    "FEM": "potière",
+    "forme1": "potier‧ère",
+    "forme2": "potier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "pourvoyeur",
+    "FEM": "pourvoyeuse",
+    "forme1": "pourvoyeur‧euse",
+    "forme2": "pourvoyeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "praticien",
+    "FEM": "praticienne",
+    "forme1": "praticien‧ne",
+    "forme2": "praticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "précurseur",
+    "FEM": "précurseure",
+    "forme1": "précurseur‧e",
+    "forme2": "précurseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "prédécesseur",
+    "FEM": "prédécesseure",
+    "forme1": "prédécesseur‧e",
+    "forme2": "prédécesseur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "préfet",
+    "FEM": "préfète",
+    "forme1": "préfet‧ète",
+    "forme2": "préfet⋅ète",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "premier ministre",
+    "FEM": "première ministre",
+    "forme1": "premier‧ère ministre",
+    "forme2": "premier⋅ère ministre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "préposé",
+    "FEM": "préposée",
+    "forme1": "préposé‧e",
+    "forme2": "préposé⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "présentateur",
+    "FEM": "présentatrice",
+    "forme1": "présentateur‧trice",
+    "forme2": "présentateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "président",
+    "FEM": "présidente",
+    "forme1": "président‧e",
+    "forme2": "président⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "principal",
+    "FEM": "principale",
+    "forme1": "principal‧e",
+    "forme2": "principal⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "procureur",
+    "FEM": "procureure",
+    "forme1": "procureur‧e",
+    "forme2": "procureur⋅e",
+    "forme3": "procureur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "producteur",
+    "FEM": "productrice",
+    "forme1": "producteur‧trice",
+    "forme2": "producteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "professeur",
+    "FEM": "professeure",
+    "forme1": "professeur‧e",
+    "forme2": "professeur⋅e",
+    "forme3": "professeur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "professeur-chercheur",
+    "FEM": "professeure-chercheuse",
+    "forme1": "professeur‧e-chercheur‧euse",
+    "forme2": "professeur⋅e-chercheur⋅se",
+    "forme3": "professeur‧e-chercheur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "programmateur",
+    "FEM": "programmatrice",
+    "forme1": "programmateur‧trice",
+    "forme2": "programmateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "programmeur",
+    "FEM": "programmeuse",
+    "forme1": "programmeur‧euse",
+    "forme2": "programmeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "promoteur",
+    "FEM": "promotrice",
+    "forme1": "promoteur‧trice",
+    "forme2": "promoteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "prospecteur",
+    "FEM": "prospectrice",
+    "forme1": "prospecteur‧trice",
+    "forme2": "prospecteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "puériculteur",
+    "FEM": "puéricultrice",
+    "forme1": "puériculteur‧trice",
+    "forme2": "puériculteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "radiologiste",
+    "FEM": "radiologiste",
+    "forme1": "radiologiste",
+    "forme2": "radiologiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "radiologue",
+    "FEM": "radiologue",
+    "forme1": "radiologue",
+    "forme2": "radiologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "rapporteur",
+    "FEM": "rapporteuse",
+    "forme1": "rapporteur‧euse",
+    "forme2": "rapporteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "réalisateur",
+    "FEM": "réalisatrice",
+    "forme1": "réalisateur‧trice",
+    "forme2": "réalisateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "recenseur",
+    "FEM": "recenseuse",
+    "forme1": "recenseur‧euse",
+    "forme2": "recenseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "réceptionniste",
+    "FEM": "réceptionniste",
+    "forme1": "réceptionniste",
+    "forme2": "réceptionniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "recruteur",
+    "FEM": "recruteuse",
+    "forme1": "recruteur‧euse",
+    "forme2": "recruteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "recteur",
+    "FEM": "rectrice",
+    "forme1": "recteur‧trice",
+    "forme2": "recteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "rédacteur",
+    "FEM": "rédactrice",
+    "forme1": "rédacteur‧trice",
+    "forme2": "redacteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "régisseur",
+    "FEM": "régisseuse",
+    "forme1": "régisseur‧euse",
+    "forme2": "régisseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "registraire",
+    "FEM": "registraire",
+    "forme1": "registraire",
+    "forme2": "registraire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "rembourreur",
+    "FEM": "rembourreuse",
+    "forme1": "rembourreur‧euse",
+    "forme2": "rembourreur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "remplaçant",
+    "FEM": "remplaçante",
+    "forme1": "remplaçant‧e",
+    "forme2": "remplaçant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "réparateur",
+    "FEM": "réparatrice",
+    "forme1": "réparateur‧trice",
+    "forme2": "réparateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "répartiteur",
+    "FEM": "répartitrice",
+    "forme1": "répartiteur‧trice",
+    "forme2": "répartiteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "repasseur",
+    "FEM": "repasseuse",
+    "forme1": "repasseur‧euse",
+    "forme2": "repasseur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "répétiteur",
+    "FEM": "répétitrice",
+    "forme1": "répétiteur‧trice",
+    "forme2": "répétiteur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "répondant",
+    "FEM": "répondante",
+    "forme1": "répondant‧e",
+    "forme2": "répondant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "reporteur",
+    "FEM": "reporteuse",
+    "forme1": "reporteur‧euse",
+    "forme2": "reporteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "représentant",
+    "FEM": "représentante",
+    "forme1": "représentant‧e",
+    "forme2": "représentant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "requérant",
+    "FEM": "requérante",
+    "forme1": "requérant‧e",
+    "forme2": "requérant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "responsable",
+    "FEM": "responsable",
+    "forme1": "responsable",
+    "forme2": "responsable",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "restaurateur",
+    "FEM": "restauratrice",
+    "forme1": "restaurateur‧trice",
+    "forme2": "restaurateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "retraité",
+    "FEM": "retraitée",
+    "forme1": "retraité‧e",
+    "forme2": "retraité⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "réviseur",
+    "FEM": "réviseure",
+    "forme1": "réviseur‧e",
+    "forme2": "réviseur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sapeur-pompier",
+    "FEM": "sapeuse-pompière",
+    "forme1": "sapeur‧se-pompier‧ère",
+    "forme2": "sapeur⋅se-pompier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sauveteur",
+    "FEM": "sauveteuse",
+    "forme1": "sauveteur‧euse",
+    "forme2": "sauveteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "scrutateur",
+    "FEM": "scrutatrice",
+    "forme1": "scrutateur‧trice",
+    "forme2": "scrutateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sculpteur",
+    "FEM": "sculptrice",
+    "forme1": "sculpteur‧trice",
+    "forme2": "sculpteur⋅trice",
+    "forme3": "sculpteur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "secrétaire",
+    "FEM": "secrétaire",
+    "forme1": "secrétaire",
+    "forme2": "secrétaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "secrétaire-trésorier",
+    "FEM": "secrétaire-trésorière",
+    "forme1": "secrétaire-trésorier‧ère",
+    "forme2": "secrétaire-trésorier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sénateur",
+    "FEM": "sénatrice",
+    "forme1": "sénateur‧trice",
+    "forme2": "sénateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sergent",
+    "FEM": "sergente",
+    "forme1": "sergent‧e",
+    "forme2": "sergent⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "serrurier",
+    "FEM": "serrurière",
+    "forme1": "serrurier‧ère",
+    "forme2": "serrurier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "serveur",
+    "FEM": "serveuse",
+    "forme1": "serveur‧euse",
+    "forme2": "serveur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "soigneur",
+    "FEM": "soigneuse",
+    "forme1": "soigneur‧euse",
+    "forme2": "soigneur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "solliciteur",
+    "FEM": "solliciteuse",
+    "forme1": "solliciteur‧euse",
+    "forme2": "solliciteur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "soudeur",
+    "FEM": "soudeuse",
+    "forme1": "soudeur‧euse",
+    "forme2": "soudeur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "souffleur",
+    "FEM": "souffleuse",
+    "forme1": "souffleur‧euse",
+    "forme2": "souffleur⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sous-ministre",
+    "FEM": "sous-ministre",
+    "forme1": "sous-ministre",
+    "forme2": "sous-ministre",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "sous-traitant",
+    "FEM": "sous-traitante",
+    "forme1": "sous-traitant‧e",
+    "forme2": "sous-traitant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "stagiaire",
+    "FEM": "stagiaire",
+    "forme1": "stagiaire",
+    "forme2": "stagiaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "statisticien",
+    "FEM": "statisticienne",
+    "forme1": "statisticien‧ne",
+    "forme2": "statisticien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "substitut",
+    "FEM": "substitut",
+    "forme1": "substitut",
+    "forme2": "substitut",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "successeur",
+    "FEM": "successeuse",
+    "forme1": "successeur‧euse",
+    "forme2": "success‧eur‧eure",
+    "forme3": "successeur‧e",
+    "forme4": null
+  },
+  {
+    "MASC": "supérieur",
+    "FEM": "supérieure",
+    "forme1": "supérieur‧e",
+    "forme2": "supérieur⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "superviseur",
+    "FEM": "superviseuse",
+    "forme1": "superviseur‧euse",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "surintendant",
+    "FEM": "surintendante",
+    "forme1": "surintendant‧e",
+    "forme2": "surintendant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "surveillant",
+    "FEM": "surveillante",
+    "forme1": "surveillant‧e",
+    "forme2": "surveillant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "syndic",
+    "FEM": "syndique",
+    "forme1": "syndic‧que",
+    "forme2": "syndic⋅que",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "tailleur",
+    "FEM": "tailleuse",
+    "forme1": "tailleur‧euse",
+    "forme2": "tailleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "tapissier",
+    "FEM": "tapissière",
+    "forme1": "tapissier‧ère",
+    "forme2": "tapissier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "technicien",
+    "FEM": "technicienne",
+    "forme1": "technicien‧ne",
+    "forme2": "technicien⋅ne",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "téléphoniste",
+    "FEM": "téléphoniste",
+    "forme1": "téléphoniste",
+    "forme2": "téléphoniste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "teneur de livres",
+    "FEM": "teneuse de livres",
+    "forme1": "teneur‧euse de livres",
+    "forme2": "teneu⋅r⋅se de livres",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "terminologue",
+    "FEM": "terminologue",
+    "forme1": "terminologue",
+    "forme2": "terminologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "tisserand",
+    "FEM": "tisserande",
+    "forme1": "tisserand‧e",
+    "forme2": "tisserand⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "traducteur",
+    "FEM": "traductrice",
+    "forme1": "traducteur‧trice",
+    "forme2": "traduct⋅eur⋅rice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "traiteur",
+    "FEM": "traiteuse",
+    "forme1": "traiteur‧euse",
+    "forme2": "traiteu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "travailleur",
+    "FEM": "travailleuse",
+    "forme1": "travailleur‧euse",
+    "forme2": "travailleu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "travailleur social",
+    "FEM": "travailleuse sociale",
+    "forme1": "travailleur‧euse social",
+    "forme2": "travailleu⋅r⋅se sociale",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "trésorier",
+    "FEM": "trésorière",
+    "forme1": "trésorier‧ère",
+    "forme2": "trésorier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "trieur",
+    "FEM": "trieuse",
+    "forme1": "trieur‧euse",
+    "forme2": "trieu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "tuteur",
+    "FEM": "tutrice",
+    "forme1": "tuteur‧trice",
+    "forme2": "tut⋅eur⋅rice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "tuyauteur",
+    "FEM": "tuyauteuse",
+    "forme1": "tuyauteur‧euse",
+    "forme2": "tuyauteu⋅r⋅se",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "typographe",
+    "FEM": "typographe",
+    "forme1": "typographe",
+    "forme2": "typographe",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "urgentologue",
+    "FEM": "urgentologue",
+    "forme1": "urgentologue",
+    "forme2": "urgentologue",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "usager",
+    "FEM": "usagère",
+    "forme1": "usager‧ère",
+    "forme2": "usager⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "utilisateur",
+    "FEM": "utilisatrice",
+    "forme1": "utilisateur‧trice",
+    "forme2": "utilisateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vendeur",
+    "FEM": "vendeuse",
+    "forme1": "vendeur‧euse",
+    "forme2": "veudeur⋅euse",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vérificateur",
+    "FEM": "vérificatrice",
+    "forme1": "vérificateur‧trice",
+    "forme2": "vérificateur⋅trice",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vétérinaire",
+    "FEM": "vétérinaire",
+    "forme1": "vétérinaire",
+    "forme2": "vétérinaire",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vice-président",
+    "FEM": "vice-présidente",
+    "forme1": "vice-président‧e",
+    "forme2": "vice-président⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vitrier",
+    "FEM": "vitrière",
+    "forme1": "vitrier‧ère",
+    "forme2": "vitrier⋅ère",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "voyagiste",
+    "FEM": "voyagiste",
+    "forme1": "voyagiste",
+    "forme2": "voyagiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "voyant",
+    "FEM": "voyante",
+    "forme1": "voyant‧e",
+    "forme2": "voyant⋅e",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "zoologiste",
+    "FEM": "zoologiste",
+    "forme1": "zoologiste",
+    "forme2": "zoologiste",
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": null,
+    "FEM": null,
+    "forme1": null,
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "le",
+    "FEM": "la",
+    "forme1": "le‧la",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "les",
+    "FEM": "les",
+    "forme1": "les",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "un",
+    "FEM": "une",
+    "forme1": "un‧e",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "uns",
+    "FEM": "unes",
+    "forme1": "un‧es",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "du",
+    "FEM": "de la",
+    "forme1": "du‧de la",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "des",
+    "FEM": "des",
+    "forme1": "des",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ce",
+    "FEM": "cette",
+    "forme1": "ce‧tte",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "cet",
+    "FEM": "cette",
+    "forme1": "cet‧te",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ces",
+    "FEM": "ces",
+    "forme1": "ces",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "celui",
+    "FEM": "celle",
+    "forme1": "celui‧celle",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "mon",
+    "FEM": "ma",
+    "forme1": "mon‧ma",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ton",
+    "FEM": "ta",
+    "forme1": "ton‧ta",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "son",
+    "FEM": "sa",
+    "forme1": "son‧sa",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "ses",
+    "FEM": "ses",
+    "forme1": "ses",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "nos",
+    "FEM": "nos",
+    "forme1": "nos",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "notre",
+    "FEM": "notre",
+    "forme1": "notre",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "vos",
+    "FEM": "vos",
+    "forme1": "vos",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "votre",
+    "FEM": "votre",
+    "forme1": "votre",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "celui",
+    "FEM": "celle",
+    "forme1": "celui‧celle",
+    "forme2": null,
+    "forme3": "ceulle",
+    "forme4": null
+  },
+  {
+    "MASC": "ceux",
+    "FEM": "celles",
+    "forme1": "ceux‧celles",
+    "forme2": null,
+    "forme3": "ceulles;celleux",
+    "forme4": null
+  },
+  {
+    "MASC": "tous",
+    "FEM": "toutes",
+    "forme1": "tous‧tes",
+    "forme2": null,
+    "forme3": "toustes",
+    "forme4": null
+  }
+]
