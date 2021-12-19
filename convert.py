@@ -24,4 +24,4 @@ def convert(splittedText):
 
     return out
 
-print(convert(extractWords(test)))
+print(convert(extractWords('tous')))

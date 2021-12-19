@@ -2,18 +2,18 @@
   {
     "MASC": "acheteur",
     "FEM": "acheteuse",
-    "forme1": "acheteur‧euse",
-    "forme2": "achet‧eur‧euse",
+    "forme1": "acheteur\u2027euse",
+    "forme2": "achet\u2027eur\u2027euse",
     "forme3": null,
-    "forme4": "acheteur‧euse"
+    "forme4": "acheteur\u2027euse"
   },
   {
     "MASC": "acquéreur",
     "FEM": "acquéreuse; acquéresse (droit)",
-    "forme1": "acquéreur‧euse",
+    "forme1": "acquéreur\u2027euse",
     "forme2": "acquéreu⋅r⋅se",
     "forme3": null,
-    "forme4": "acquéreur‧euse"
+    "forme4": "acquéreur\u2027euse"
   },
   {
     "MASC": "actuaire",
@@ -26,58 +26,58 @@
   {
     "MASC": "acupuncteur",
     "FEM": "acupunctrice",
-    "forme1": "acupunteur‧trice",
+    "forme1": "acupunteur\u2027trice",
     "forme2": "acupunc⋅teur⋅trice",
-    "forme3": "acupuncteur‧e",
-    "forme4": "acupuncteur‧rice"
+    "forme3": "acupuncteur\u2027e",
+    "forme4": "acupuncteur\u2027rice"
   },
   {
     "MASC": "adjoint",
     "FEM": "adjointe",
-    "forme1": "adjoint‧e",
+    "forme1": "adjoint\u2027e",
     "forme2": "adjoint⋅e",
-    "forme3": "adjoint‧e",
-    "forme4": "adjoint‧e"
+    "forme3": "adjoint\u2027e",
+    "forme4": "adjoint\u2027e"
   },
   {
     "MASC": "adjoint administratif",
     "FEM": "adjointe administrative",
-    "forme1": "adjoint‧e administratif‧ve",
+    "forme1": "adjoint\u2027e administratif\u2027ve",
     "forme2": "adjoint⋅e administrati⋅f⋅ve",
-    "forme3": "adjoint‧e administratif‧ve",
-    "forme4": "adjoint‧e administratif‧ve"
+    "forme3": "adjoint\u2027e administratif\u2027ve",
+    "forme4": "adjoint\u2027e administratif\u2027ve"
   },
   {
     "MASC": "administrateur",
     "FEM": "administratrice",
-    "forme1": "administrateur‧trice",
-    "forme2": "administra‧teur‧trice",
-    "forme3": "administrateur‧e",
-    "forme4": "administrateur‧rice"
+    "forme1": "administrateur\u2027trice",
+    "forme2": "administra\u2027teur\u2027trice",
+    "forme3": "administrateur\u2027e",
+    "forme4": "administrateur\u2027rice"
   },
   {
     "MASC": "agent",
     "FEM": "agente",
-    "forme1": "agent‧e",
+    "forme1": "agent\u2027e",
     "forme2": "agent⋅e",
-    "forme3": "agent‧e",
-    "forme4": "agent‧e"
+    "forme3": "agent\u2027e",
+    "forme4": "agent\u2027e"
   },
   {
     "MASC": "agent immobilier",
     "FEM": "agente immobilière",
-    "forme1": "agent‧e immobilier‧ère",
+    "forme1": "agent\u2027e immobilier\u2027ère",
     "forme2": "agent⋅e immobilièr⋅e",
-    "forme3": "agent‧e immobilier‧e",
-    "forme4": "agente‧e immobilier‧ère"
+    "forme3": "agent\u2027e immobilier\u2027e",
+    "forme4": "agente\u2027e immobilier\u2027ère"
   },
   {
     "MASC": "agriculteur",
     "FEM": "agricultrice",
-    "forme1": "agriculteur‧trice",
+    "forme1": "agriculteur\u2027trice",
     "forme2": "agricul⋅teur⋅trice",
     "forme3": null,
-    "forme4": "agriculteur‧rice"
+    "forme4": "agriculteur\u2027rice"
   },
   {
     "MASC": "agronome",
@@ -90,10 +90,10 @@
   {
     "MASC": "agresseur",
     "FEM": "agresseuse",
-    "forme1": "agresseur‧euse",
+    "forme1": "agresseur\u2027euse",
     "forme2": "agresseu⋅r⋅se",
-    "forme3": "agresseur‧e",
-    "forme4": "agresseur‧euse"
+    "forme3": "agresseur\u2027e",
+    "forme4": "agresseur\u2027euse"
   },
   {
     "MASC": "aide-comptable",
@@ -106,7 +106,7 @@
   {
     "MASC": "aide-mécanicien",
     "FEM": "aide-mécanicienne",
-    "forme1": "aide-mécanicien‧ne",
+    "forme1": "aide-mécanicien\u2027ne",
     "forme2": "aide-mécanicien⋅ne",
     "forme3": "aide-mécanicienne",
     "forme4": "aide-mécanicienne"
@@ -114,23 +114,23 @@
   {
     "MASC": "ajusteur",
     "FEM": "ajusteuse",
-    "forme1": "ajusteur‧euse",
+    "forme1": "ajusteur\u2027euse",
     "forme2": "ajusteu⋅r⋅se",
     "forme3": null,
-    "forme4": "ajusteur‧euse"
+    "forme4": "ajusteur\u2027euse"
   },
   {
     "MASC": "ambulancier",
     "FEM": "ambulancière",
-    "forme1": "ambulancier‧ère",
+    "forme1": "ambulancier\u2027ère",
     "forme2": "ambulancier⋅e",
-    "forme3": "ambulancier‧e",
+    "forme3": "ambulancier\u2027e",
     "forme4": "amb"
   },
   {
     "MASC": "ambassadeur",
     "FEM": "ambassadrice",
-    "forme1": "ambassadeur‧drice",
+    "forme1": "ambassadeur\u2027drice",
     "forme2": "ambassadeur⋅drice",
     "forme3": null,
     "forme4": null
@@ -138,7 +138,7 @@
   {
     "MASC": "ambassadeur",
     "FEM": "ambassaderesse",
-    "forme1": "ambassadeur‧deresse",
+    "forme1": "ambassadeur\u2027deresse",
     "forme2": "ambassadeur",
     "forme3": null,
     "forme4": null
@@ -146,7 +146,7 @@
   {
     "MASC": "analyste financier",
     "FEM": "analyste financière",
-    "forme1": "analyste financier‧ère",
+    "forme1": "analyste financier\u2027ère",
     "forme2": "analyste financier⋅ère",
     "forme3": null,
     "forme4": null
@@ -154,7 +154,7 @@
   {
     "MASC": "animateur",
     "FEM": "animatrice",
-    "forme1": "animateur‧trice",
+    "forme1": "animateur\u2027trice",
     "forme2": "anima⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -162,7 +162,7 @@
   {
     "MASC": "annonceur",
     "FEM": "annonceuse",
-    "forme1": "annonceur‧euse",
+    "forme1": "annonceur\u2027euse",
     "forme2": "annonceu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -170,7 +170,7 @@
   {
     "MASC": "apiculteur",
     "FEM": "apicultrice",
-    "forme1": "apiculteur‧trice",
+    "forme1": "apiculteur\u2027trice",
     "forme2": "apicul⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -178,7 +178,7 @@
   {
     "MASC": "appariteur",
     "FEM": "apparitrice",
-    "forme1": "appariteur‧trice",
+    "forme1": "appariteur\u2027trice",
     "forme2": "appari⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -186,7 +186,7 @@
   {
     "MASC": "applicateur",
     "FEM": "applicatrice",
-    "forme1": "applicateur‧trice",
+    "forme1": "applicateur\u2027trice",
     "forme2": "applica⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -194,7 +194,7 @@
   {
     "MASC": "apprenti",
     "FEM": "apprentie",
-    "forme1": "apprenti‧e",
+    "forme1": "apprenti\u2027e",
     "forme2": "apprenti⋅e",
     "forme3": null,
     "forme4": null
@@ -210,7 +210,7 @@
   {
     "MASC": "arboriculteur",
     "FEM": "arboricultrice",
-    "forme1": "arboriculteur‧trice",
+    "forme1": "arboriculteur\u2027trice",
     "forme2": "arboricul⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -242,7 +242,7 @@
   {
     "MASC": "arpenteur-géomètre",
     "FEM": "arpenteuse-géomètre",
-    "forme1": "arpenteur‧trice-géomètre",
+    "forme1": "arpenteur\u2027trice-géomètre",
     "forme2": "arpenteur⋅se-géomètre",
     "forme3": null,
     "forme4": null
@@ -250,7 +250,7 @@
   {
     "MASC": "artisan",
     "FEM": "artisane",
-    "forme1": "artisan‧e",
+    "forme1": "artisan\u2027e",
     "forme2": "artisan⋅e",
     "forme3": null,
     "forme4": null
@@ -258,7 +258,7 @@
   {
     "MASC": "assembleur",
     "FEM": "assembleuse",
-    "forme1": "assembleur‧se",
+    "forme1": "assembleur\u2027se",
     "forme2": "assembleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -266,15 +266,15 @@
   {
     "MASC": "assesseur",
     "FEM": "assesseuse",
-    "forme1": "assesseur‧se",
-    "forme2": "assesseu‧r‧se",
-    "forme3": "assesseur‧e",
+    "forme1": "assesseur\u2027se",
+    "forme2": "assesseu\u2027r\u2027se",
+    "forme3": "assesseur\u2027e",
     "forme4": null
   },
   {
     "MASC": "assistant",
     "FEM": "assistante",
-    "forme1": "assistant‧e",
+    "forme1": "assistant\u2027e",
     "forme2": "assistant⋅e",
     "forme3": null,
     "forme4": null
@@ -282,7 +282,7 @@
   {
     "MASC": "associé",
     "FEM": "associée",
-    "forme1": "associé‧e",
+    "forme1": "associé\u2027e",
     "forme2": "associé⋅e",
     "forme3": null,
     "forme4": null
@@ -290,7 +290,7 @@
   {
     "MASC": "assureur",
     "FEM": "assureuse",
-    "forme1": "assureur‧e",
+    "forme1": "assureur\u2027e",
     "forme2": "assureu⋅r⋅e",
     "forme3": null,
     "forme4": null
@@ -314,7 +314,7 @@
   {
     "MASC": "attaché",
     "FEM": "attachée",
-    "forme1": "attaché‧e",
+    "forme1": "attaché\u2027e",
     "forme2": "attaché⋅e",
     "forme3": null,
     "forme4": null
@@ -322,7 +322,7 @@
   {
     "MASC": "auteur",
     "FEM": "auteure / autrice",
-    "forme1": "auteur‧e",
+    "forme1": "auteur\u2027e",
     "forme2": "au⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -338,7 +338,7 @@
   {
     "MASC": "aviculteur",
     "FEM": "avicultrice",
-    "forme1": "aviculteur‧trice",
+    "forme1": "aviculteur\u2027trice",
     "forme2": "avicul⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -346,7 +346,7 @@
   {
     "MASC": "avocat",
     "FEM": "avocate",
-    "forme1": "avocat‧e",
+    "forme1": "avocat\u2027e",
     "forme2": "avocat⋅e",
     "forme3": null,
     "forme4": null
@@ -370,7 +370,7 @@
   {
     "MASC": "banquier",
     "FEM": "banquière",
-    "forme1": "banquier‧ère",
+    "forme1": "banquier\u2027ère",
     "forme2": "banquièr⋅e",
     "forme3": null,
     "forme4": null
@@ -386,7 +386,7 @@
   {
     "MASC": "bijoutier",
     "FEM": "bijoutière",
-    "forme1": "bijoutier‧ère",
+    "forme1": "bijoutier\u2027ère",
     "forme2": "bijoutièr⋅e",
     "forme3": null,
     "forme4": null
@@ -402,7 +402,7 @@
   {
     "MASC": "blanchisseur",
     "FEM": "blanchisseuse",
-    "forme1": "blanchisseur‧euse",
+    "forme1": "blanchisseur\u2027euse",
     "forme2": "blanchisseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -418,7 +418,7 @@
   {
     "MASC": "bottier",
     "FEM": "bottière",
-    "forme1": "bottier‧ère",
+    "forme1": "bottier\u2027ère",
     "forme2": "bottier⋅ère",
     "forme3": null,
     "forme4": null
@@ -426,7 +426,7 @@
   {
     "MASC": "boucher",
     "FEM": "bouchère",
-    "forme1": "boucher‧ère",
+    "forme1": "boucher\u2027ère",
     "forme2": "bouch⋅er⋅ère",
     "forme3": null,
     "forme4": null
@@ -434,7 +434,7 @@
   {
     "MASC": "boulanger",
     "FEM": "boulangère",
-    "forme1": "boulanger‧ère",
+    "forme1": "boulanger\u2027ère",
     "forme2": "boulanger⋅ère",
     "forme3": null,
     "forme4": null
@@ -442,7 +442,7 @@
   {
     "MASC": "boursier",
     "FEM": "boursière",
-    "forme1": "boursier‧ère",
+    "forme1": "boursier\u2027ère",
     "forme2": "boursier⋅ère",
     "forme3": null,
     "forme4": null
@@ -450,7 +450,7 @@
   {
     "MASC": "boxeur",
     "FEM": "boxeuse",
-    "forme1": "boxeur‧euse",
+    "forme1": "boxeur\u2027euse",
     "forme2": "boxeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -458,7 +458,7 @@
   {
     "MASC": "brigadier",
     "FEM": "brigadière",
-    "forme1": "brigardier‧ère",
+    "forme1": "brigardier\u2027ère",
     "forme2": "bigadier⋅ère",
     "forme3": null,
     "forme4": null
@@ -466,7 +466,7 @@
   {
     "MASC": "briqueteur-maçon",
     "FEM": "briqueteuse-maçonne",
-    "forme1": "briqueteur‧euse-maçon‧ne",
+    "forme1": "briqueteur\u2027euse-maçon\u2027ne",
     "forme2": "briqueteur⋅euse-maçon⋅ne",
     "forme3": null,
     "forme4": null
@@ -474,7 +474,7 @@
   {
     "MASC": "bruiteur",
     "FEM": "bruiteuse",
-    "forme1": "bruiteur‧euse",
+    "forme1": "bruiteur\u2027euse",
     "forme2": "bruiteu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -482,7 +482,7 @@
   {
     "MASC": "buandier",
     "FEM": "buandière",
-    "forme1": "buandier‧euse",
+    "forme1": "buandier\u2027euse",
     "forme2": "buandier⋅e",
     "forme3": null,
     "forme4": null
@@ -490,7 +490,7 @@
   {
     "MASC": "bûcheron",
     "FEM": "bûcheronne",
-    "forme1": "bûcheron‧ne",
+    "forme1": "bûcheron\u2027ne",
     "forme2": "bucheron⋅ne",
     "forme3": null,
     "forme4": null
@@ -498,7 +498,7 @@
   {
     "MASC": "cadet",
     "FEM": "cadette",
-    "forme1": "cadet‧te",
+    "forme1": "cadet\u2027te",
     "forme2": "cadet⋅te",
     "forme3": null,
     "forme4": null
@@ -514,7 +514,7 @@
   {
     "MASC": "cadreur",
     "FEM": "cadreuse",
-    "forme1": "cadreur‧euse",
+    "forme1": "cadreur\u2027euse",
     "forme2": "cadreu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -522,7 +522,7 @@
   {
     "MASC": "caissier",
     "FEM": "caissière",
-    "forme1": "caissier‧ère",
+    "forme1": "caissier\u2027ère",
     "forme2": "caissier⋅e",
     "forme3": null,
     "forme4": null
@@ -546,7 +546,7 @@
   {
     "MASC": "camionneur",
     "FEM": "camionneuse",
-    "forme1": "camionneur‧euse",
+    "forme1": "camionneur\u2027euse",
     "forme2": "camionneu⋅r⋅se",
     "forme3": "cammioneure",
     "forme4": null
@@ -570,7 +570,7 @@
   {
     "MASC": "cascadeur",
     "FEM": "cascadeuse",
-    "forme1": "cascadeur‧deuse",
+    "forme1": "cascadeur\u2027deuse",
     "forme2": "cascadeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -578,7 +578,7 @@
   {
     "MASC": "catalogueur",
     "FEM": "catalogueuse",
-    "forme1": "catalogueur‧euse",
+    "forme1": "catalogueur\u2027euse",
     "forme2": "catalogueur⋅se",
     "forme3": null,
     "forme4": null
@@ -586,7 +586,7 @@
   {
     "MASC": "cégépien",
     "FEM": "cégépienne",
-    "forme1": "cégépien‧enne",
+    "forme1": "cégépien\u2027enne",
     "forme2": "cégépie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -594,7 +594,7 @@
   {
     "MASC": "chanteur",
     "FEM": "chanteuse; cantatrice",
-    "forme1": "chanteur‧teuse",
+    "forme1": "chanteur\u2027teuse",
     "forme2": "chanteu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -602,7 +602,7 @@
   {
     "MASC": "charpentier",
     "FEM": "charpentière",
-    "forme1": "charpentier‧ère",
+    "forme1": "charpentier\u2027ère",
     "forme2": "charpentier⋅e",
     "forme3": null,
     "forme4": null
@@ -610,23 +610,23 @@
   {
     "MASC": "chasseur de têtes",
     "FEM": "chasseuse de têtes",
-    "forme1": "chasseur‧se de têtes",
-    "forme2": "chass‧eur⋅euse de tête",
+    "forme1": "chasseur\u2027se de têtes",
+    "forme2": "chass\u2027eur⋅euse de tête",
     "forme3": null,
     "forme4": null
   },
   {
     "MASC": "chauffeur",
     "FEM": "chauffeuse",
-    "forme1": "chauffeur‧euse",
+    "forme1": "chauffeur\u2027euse",
     "forme2": "chauffeu⋅r⋅se",
-    "forme3": "chauffeur‧e",
+    "forme3": "chauffeur\u2027e",
     "forme4": null
   },
   {
     "MASC": "chef",
     "FEM": "cheffe",
-    "forme1": "chef‧fe",
+    "forme1": "chef\u2027fe",
     "forme2": "chef⋅fe",
     "forme3": null,
     "forme4": null
@@ -634,7 +634,7 @@
   {
     "MASC": "chercheur",
     "FEM": "chercheuse",
-    "forme1": "chercheur‧euse",
+    "forme1": "chercheur\u2027euse",
     "forme2": "chercheu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -642,7 +642,7 @@
   {
     "MASC": "chiropraticien",
     "FEM": "chiropraticienne",
-    "forme1": "chiropractien‧ne",
+    "forme1": "chiropractien\u2027ne",
     "forme2": "chiropracticie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -650,7 +650,7 @@
   {
     "MASC": "chirurgien",
     "FEM": "chirurgienne",
-    "forme1": "chirurgien‧ne",
+    "forme1": "chirurgien\u2027ne",
     "forme2": "chirurgie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -658,7 +658,7 @@
   {
     "MASC": "chômeur",
     "FEM": "chômeuse",
-    "forme1": "chômeur‧euse",
+    "forme1": "chômeur\u2027euse",
     "forme2": "chômeu⋅r⋅se / privé⋅e⋅ d'emploi",
     "forme3": null,
     "forme4": null
@@ -674,7 +674,7 @@
   {
     "MASC": "chroniqueur",
     "FEM": "chroniqueuse",
-    "forme1": "chroniqueur‧euse",
+    "forme1": "chroniqueur\u2027euse",
     "forme2": "chroniqueu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -682,7 +682,7 @@
   {
     "MASC": "coiffeur",
     "FEM": "coiffeuse",
-    "forme1": "coiffeur‧euse",
+    "forme1": "coiffeur\u2027euse",
     "forme2": "coiffeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -690,7 +690,7 @@
   {
     "MASC": "comédien",
     "FEM": "comédienne",
-    "forme1": "comédien‧ne",
+    "forme1": "comédien\u2027ne",
     "forme2": "comédie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -698,7 +698,7 @@
   {
     "MASC": "commis",
     "FEM": "commis⋅e",
-    "forme1": "commis‧e",
+    "forme1": "commis\u2027e",
     "forme2": "commis⋅e",
     "forme3": null,
     "forme4": null
@@ -706,7 +706,7 @@
   {
     "MASC": "commis-vendeur",
     "FEM": "commis-vendeuse",
-    "forme1": "commis-vendeur‧euse",
+    "forme1": "commis-vendeur\u2027euse",
     "forme2": "commis⋅e-vendeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -722,7 +722,7 @@
   {
     "MASC": "communicateur",
     "FEM": "communicatrice",
-    "forme1": "communicateur‧trice",
+    "forme1": "communicateur\u2027trice",
     "forme2": "communica⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -730,7 +730,7 @@
   {
     "MASC": "communicant",
     "FEM": "communicante",
-    "forme1": "communicant‧e",
+    "forme1": "communicant\u2027e",
     "forme2": "communicant⋅e",
     "forme3": null,
     "forme4": null
@@ -738,7 +738,7 @@
   {
     "MASC": "compositeur",
     "FEM": "compositrice",
-    "forme1": "compositeur‧trice",
+    "forme1": "compositeur\u2027trice",
     "forme2": "composi⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -746,7 +746,7 @@
   {
     "MASC": "concepteur",
     "FEM": "conceptrice",
-    "forme1": "concepteur‧trice",
+    "forme1": "concepteur\u2027trice",
     "forme2": "concep⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -762,7 +762,7 @@
   {
     "MASC": "conducteur",
     "FEM": "conductrice",
-    "forme1": "conducteur‧trice",
+    "forme1": "conducteur\u2027trice",
     "forme2": "conduc⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -770,7 +770,7 @@
   {
     "MASC": "conférencier",
     "FEM": "conférencière",
-    "forme1": "conférencier‧ère",
+    "forme1": "conférencier\u2027ère",
     "forme2": "conférencier⋅e",
     "forme3": null,
     "forme4": null
@@ -786,7 +786,7 @@
   {
     "MASC": "conseiller",
     "FEM": "conseillère",
-    "forme1": "conseiller‧ère",
+    "forme1": "conseiller\u2027ère",
     "forme2": "conseiller⋅e",
     "forme3": null,
     "forme4": null
@@ -794,7 +794,7 @@
   {
     "MASC": "conservateur",
     "FEM": "conservatrice",
-    "forme1": "conservateur‧trice",
+    "forme1": "conservateur\u2027trice",
     "forme2": "conserva⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -802,7 +802,7 @@
   {
     "MASC": "consul",
     "FEM": "consule",
-    "forme1": "consul‧e",
+    "forme1": "consul\u2027e",
     "forme2": "consul⋅e",
     "forme3": null,
     "forme4": null
@@ -810,7 +810,7 @@
   {
     "MASC": "consultant",
     "FEM": "consultante",
-    "forme1": "consultant‧e",
+    "forme1": "consultant\u2027e",
     "forme2": "consultant⋅e",
     "forme3": null,
     "forme4": null
@@ -818,7 +818,7 @@
   {
     "MASC": "contractuel",
     "FEM": "contractuelle",
-    "forme1": "contractuel‧le",
+    "forme1": "contractuel\u2027le",
     "forme2": "contractue⋅l⋅le",
     "forme3": null,
     "forme4": null
@@ -826,7 +826,7 @@
   {
     "MASC": "contremaître",
     "FEM": "contremaîtresse",
-    "forme1": "contremaître‧sse",
+    "forme1": "contremaître\u2027sse",
     "forme2": "contremaître⋅sse",
     "forme3": null,
     "forme4": null
@@ -834,7 +834,7 @@
   {
     "MASC": "contrôleur",
     "FEM": "contrôleuse",
-    "forme1": "contrôleur‧leuse",
+    "forme1": "contrôleur\u2027leuse",
     "forme2": "contrôleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -842,7 +842,7 @@
   {
     "MASC": "coopérant",
     "FEM": "coopérante",
-    "forme1": "coopérant‧e",
+    "forme1": "coopérant\u2027e",
     "forme2": "coopérant⋅e",
     "forme3": null,
     "forme4": null
@@ -850,7 +850,7 @@
   {
     "MASC": "coordonnateur",
     "FEM": "coordonnatrice",
-    "forme1": "coordonateur‧trice",
+    "forme1": "coordonateur\u2027trice",
     "forme2": "coordona⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -866,7 +866,7 @@
   {
     "MASC": "cordonnier",
     "FEM": "cordonnière",
-    "forme1": "cordonnier‧ère",
+    "forme1": "cordonnier\u2027ère",
     "forme2": "cordonnier⋅e",
     "forme3": null,
     "forme4": null
@@ -882,7 +882,7 @@
   {
     "MASC": "correcteur",
     "FEM": "correctrice",
-    "forme1": "correcteur‧trice",
+    "forme1": "correcteur\u2027trice",
     "forme2": "correc⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -890,7 +890,7 @@
   {
     "MASC": "correspondancier",
     "FEM": "correspondancière",
-    "forme1": "correspondancier‧ère",
+    "forme1": "correspondancier\u2027ère",
     "forme2": "correspondancier⋅e",
     "forme3": null,
     "forme4": null
@@ -898,7 +898,7 @@
   {
     "MASC": "courrier",
     "FEM": "courrière",
-    "forme1": "courrier‧ère",
+    "forme1": "courrier\u2027ère",
     "forme2": "courrier⋅e",
     "forme3": null,
     "forme4": null
@@ -906,7 +906,7 @@
   {
     "MASC": "courtier",
     "FEM": "courtière",
-    "forme1": "courtier‧ère",
+    "forme1": "courtier\u2027ère",
     "forme2": "courtier⋅e",
     "forme3": null,
     "forme4": null
@@ -914,7 +914,7 @@
   {
     "MASC": "couseur",
     "FEM": "couseuse",
-    "forme1": "couseur‧euse",
+    "forme1": "couseur\u2027euse",
     "forme2": "couseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -922,7 +922,7 @@
   {
     "MASC": "couturier",
     "FEM": "couturière",
-    "forme1": "couturier‧ère",
+    "forme1": "couturier\u2027ère",
     "forme2": "couturier⋅e",
     "forme3": null,
     "forme4": null
@@ -930,7 +930,7 @@
   {
     "MASC": "couvreur",
     "FEM": "couvreuse",
-    "forme1": "couvreur‧euse",
+    "forme1": "couvreur\u2027euse",
     "forme2": "couvreu⋅r⋅euse",
     "forme3": null,
     "forme4": null
@@ -938,7 +938,7 @@
   {
     "MASC": "créateur",
     "FEM": "créatrice",
-    "forme1": "créateur‧trice",
+    "forme1": "créateur\u2027trice",
     "forme2": "créa⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -946,7 +946,7 @@
   {
     "MASC": "croupier",
     "FEM": "croupière",
-    "forme1": "croupier‧ère",
+    "forme1": "croupier\u2027ère",
     "forme2": "croupier⋅e",
     "forme3": null,
     "forme4": null
@@ -954,7 +954,7 @@
   {
     "MASC": "cuisinier",
     "FEM": "cuisinière",
-    "forme1": "cuisinier‧ère",
+    "forme1": "cuisinier\u2027ère",
     "forme2": "cuisinier⋅e",
     "forme3": null,
     "forme4": null
@@ -962,7 +962,7 @@
   {
     "MASC": "cultivateur",
     "FEM": "cultivatrice",
-    "forme1": "cultivateur‧trice",
+    "forme1": "cultivateur\u2027trice",
     "forme2": "cultiva⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -970,15 +970,15 @@
   {
     "MASC": "citoyen",
     "FEM": "citoyenne",
-    "forme1": "citoyen‧ne",
-    "forme2": "citoye‧n‧ne",
+    "forme1": "citoyen\u2027ne",
+    "forme2": "citoye\u2027n\u2027ne",
     "forme3": null,
     "forme4": null
   },
   {
     "MASC": "danseur",
     "FEM": "danseuse",
-    "forme1": "danseur‧euse",
+    "forme1": "danseur\u2027euse",
     "forme2": "danseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -986,7 +986,7 @@
   {
     "MASC": "danseur de ballet",
     "FEM": "ballerine; danseuse de ballet",
-    "forme1": "danseur‧euse de ballet",
+    "forme1": "danseur\u2027euse de ballet",
     "forme2": "ballerine/danseu⋅r⋅se de ballet",
     "forme3": null,
     "forme4": null
@@ -994,7 +994,7 @@
   {
     "MASC": "débardeur",
     "FEM": "débardeuse",
-    "forme1": "débardeur‧euse",
+    "forme1": "débardeur\u2027euse",
     "forme2": "débardeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1002,15 +1002,15 @@
   {
     "MASC": "débinarisant",
     "FEM": "débinarisante",
-    "forme1": "débinarisant‧e",
-    "forme2": "débinarisant‧e",
+    "forme1": "débinarisant\u2027e",
+    "forme2": "débinarisant\u2027e",
     "forme3": null,
     "forme4": null
   },
   {
     "MASC": "débosseleur",
     "FEM": "débosseleuse",
-    "forme1": "débosseleur‧euse",
+    "forme1": "débosseleur\u2027euse",
     "forme2": "débosseleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1018,7 +1018,7 @@
   {
     "MASC": "décorateur",
     "FEM": "décoratrice",
-    "forme1": "décorateur‧trice",
+    "forme1": "décorateur\u2027trice",
     "forme2": "décora⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1026,7 +1026,7 @@
   {
     "MASC": "défendeur",
     "FEM": "défenderesse (droit)",
-    "forme1": "défendeur‧resse",
+    "forme1": "défendeur\u2027resse",
     "forme2": "défend⋅eur⋅eresse",
     "forme3": null,
     "forme4": null
@@ -1034,7 +1034,7 @@
   {
     "MASC": "défenseur",
     "FEM": "défenseuse",
-    "forme1": "défenseur‧euse",
+    "forme1": "défenseur\u2027euse",
     "forme2": "défenseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1042,7 +1042,7 @@
   {
     "MASC": "délateur",
     "FEM": "délatrice",
-    "forme1": "délateur‧trice",
+    "forme1": "délateur\u2027trice",
     "forme2": "déla⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1050,7 +1050,7 @@
   {
     "MASC": "délégué",
     "FEM": "déléguée",
-    "forme1": "délégué‧e",
+    "forme1": "délégué\u2027e",
     "forme2": "délégué⋅e",
     "forme3": null,
     "forme4": null
@@ -1058,7 +1058,7 @@
   {
     "MASC": "demandeur",
     "FEM": "demanderesse",
-    "forme1": "demandeur‧eresse",
+    "forme1": "demandeur\u2027eresse",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -1066,7 +1066,7 @@
   {
     "MASC": "demandeur",
     "FEM": "demandeuse",
-    "forme1": "demandeur‧euse",
+    "forme1": "demandeur\u2027euse",
     "forme2": "demand.eur.euse",
     "forme3": null,
     "forme4": null
@@ -1074,7 +1074,7 @@
   {
     "MASC": "déménageur",
     "FEM": "déménageuse",
-    "forme1": "démanageur‧euse",
+    "forme1": "démanageur\u2027euse",
     "forme2": "déménageu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1082,7 +1082,7 @@
   {
     "MASC": "démonstrateur",
     "FEM": "démonstratrice",
-    "forme1": "démonstrateur‧trice",
+    "forme1": "démonstrateur\u2027trice",
     "forme2": "démonstra⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1106,7 +1106,7 @@
   {
     "MASC": "dépanneur",
     "FEM": "dépanneuse",
-    "forme1": "dépanneur‧euse",
+    "forme1": "dépanneur\u2027euse",
     "forme2": "dépanneu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1114,7 +1114,7 @@
   {
     "MASC": "député",
     "FEM": "députée",
-    "forme1": "député‧e",
+    "forme1": "député\u2027e",
     "forme2": "député⋅e",
     "forme3": null,
     "forme4": null
@@ -1122,7 +1122,7 @@
   {
     "MASC": "dessinateur",
     "FEM": "dessinatrice",
-    "forme1": "dessinateur‧trice",
+    "forme1": "dessinateur\u2027trice",
     "forme2": "dessina⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1138,7 +1138,7 @@
   {
     "MASC": "détenteur",
     "FEM": "détentrice",
-    "forme1": "détenteur‧trice",
+    "forme1": "détenteur\u2027trice",
     "forme2": "déten⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1162,7 +1162,7 @@
   {
     "MASC": "diplômé",
     "FEM": "diplômée",
-    "forme1": "diplômé‧e",
+    "forme1": "diplômé\u2027e",
     "forme2": "diplômé⋅e",
     "forme3": null,
     "forme4": null
@@ -1170,7 +1170,7 @@
   {
     "MASC": "directeur",
     "FEM": "directrice",
-    "forme1": "directeur‧trice",
+    "forme1": "directeur\u2027trice",
     "forme2": "direc⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1178,7 +1178,7 @@
   {
     "MASC": "dirigeant",
     "FEM": "dirigeante",
-    "forme1": "dirigeant‧e",
+    "forme1": "dirigeant\u2027e",
     "forme2": "dirigeant⋅e",
     "forme3": null,
     "forme4": null
@@ -1186,7 +1186,7 @@
   {
     "MASC": "docteur",
     "FEM": "docteure",
-    "forme1": "docteur‧e",
+    "forme1": "docteur\u2027e",
     "forme2": "docteur⋅e",
     "forme3": null,
     "forme4": null
@@ -1194,8 +1194,8 @@
   {
     "MASC": "docteur",
     "FEM": "doctoresse",
-    "forme1": "docteur‧oresse",
-    "forme2": "doct‧eur‧oresse",
+    "forme1": "docteur\u2027oresse",
+    "forme2": "doct\u2027eur\u2027oresse",
     "forme3": null,
     "forme4": null
   },
@@ -1210,7 +1210,7 @@
   {
     "MASC": "doyen",
     "FEM": "doyenne",
-    "forme1": "doyen‧ne",
+    "forme1": "doyen\u2027ne",
     "forme2": "doye⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -1226,7 +1226,7 @@
   {
     "MASC": "éboueur",
     "FEM": "éboueuse",
-    "forme1": "éboueur‧euse",
+    "forme1": "éboueur\u2027euse",
     "forme2": "éboueu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1250,7 +1250,7 @@
   {
     "MASC": "écrivain",
     "FEM": "écrivaine",
-    "forme1": "écrivain‧e",
+    "forme1": "écrivain\u2027e",
     "forme2": "écrivain⋅e",
     "forme3": null,
     "forme4": null
@@ -1258,7 +1258,7 @@
   {
     "MASC": "éditeur",
     "FEM": "éditrice",
-    "forme1": "éditeur‧trice",
+    "forme1": "éditeur\u2027trice",
     "forme2": "édi⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1274,7 +1274,7 @@
   {
     "MASC": "éducateur",
     "FEM": "éducatrice",
-    "forme1": "éducateur‧trice",
+    "forme1": "éducateur\u2027trice",
     "forme2": "éduca⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1282,7 +1282,7 @@
   {
     "MASC": "électricien",
     "FEM": "électricienne",
-    "forme1": "électricien‧ne",
+    "forme1": "électricien\u2027ne",
     "forme2": "électricie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -1290,7 +1290,7 @@
   {
     "MASC": "éleveur",
     "FEM": "éleveuse",
-    "forme1": "éleveur‧euse",
+    "forme1": "éleveur\u2027euse",
     "forme2": "éleveu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1298,7 +1298,7 @@
   {
     "MASC": "emballeur",
     "FEM": "emballeuse",
-    "forme1": "emballeur‧euse",
+    "forme1": "emballeur\u2027euse",
     "forme2": "emballeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1306,7 +1306,7 @@
   {
     "MASC": "embaumeur",
     "FEM": "embaumeuse",
-    "forme1": "embaumeur‧euse",
+    "forme1": "embaumeur\u2027euse",
     "forme2": "embaumeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1314,7 +1314,7 @@
   {
     "MASC": "émetteur",
     "FEM": "émettrice",
-    "forme1": "émetteur‧trice",
+    "forme1": "émetteur\u2027trice",
     "forme2": "émet⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1322,7 +1322,7 @@
   {
     "MASC": "employeur",
     "FEM": "employeuse",
-    "forme1": "employeur‧euse",
+    "forme1": "employeur\u2027euse",
     "forme2": "emplouey⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1330,7 +1330,7 @@
   {
     "MASC": "emprunteur",
     "FEM": "emprunteuse",
-    "forme1": "emprunteur‧teuse",
+    "forme1": "emprunteur\u2027teuse",
     "forme2": "emprunteu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1338,7 +1338,7 @@
   {
     "MASC": "enquêteur",
     "FEM": "enquêtrice",
-    "forme1": "enquêteur‧trice",
+    "forme1": "enquêteur\u2027trice",
     "forme2": "enquê⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1346,7 +1346,7 @@
   {
     "MASC": "enseignant",
     "FEM": "enseignante",
-    "forme1": "enseignant‧e",
+    "forme1": "enseignant\u2027e",
     "forme2": "enseignant⋅e",
     "forme3": null,
     "forme4": null
@@ -1354,7 +1354,7 @@
   {
     "MASC": "entraîneur",
     "FEM": "entraîneuse",
-    "forme1": "entraîneur‧euse",
+    "forme1": "entraîneur\u2027euse",
     "forme2": "entraîneu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1362,7 +1362,7 @@
   {
     "MASC": "entrepreneur",
     "FEM": "entrepreneuse",
-    "forme1": "entrepreneur‧euse",
+    "forme1": "entrepreneur\u2027euse",
     "forme2": "entrepreneu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1378,7 +1378,7 @@
   {
     "MASC": "essayeur",
     "FEM": "essayeuse",
-    "forme1": "essayeur‧euse",
+    "forme1": "essayeur\u2027euse",
     "forme2": "essayeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1394,7 +1394,7 @@
   {
     "MASC": "estimateur",
     "FEM": "estimatrice",
-    "forme1": "estimateur‧trice",
+    "forme1": "estimateur\u2027trice",
     "forme2": "estima⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1410,7 +1410,7 @@
   {
     "MASC": "évaluateur",
     "FEM": "évaluatrice",
-    "forme1": "évaluateur‧trice",
+    "forme1": "évaluateur\u2027trice",
     "forme2": "évalua⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1418,7 +1418,7 @@
   {
     "MASC": "examinateur",
     "FEM": "examinatrice",
-    "forme1": "examinateur‧trice",
+    "forme1": "examinateur\u2027trice",
     "forme2": "examina⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1426,7 +1426,7 @@
   {
     "MASC": "expert",
     "FEM": "experte",
-    "forme1": "expert‧e",
+    "forme1": "expert\u2027e",
     "forme2": "expert⋅e",
     "forme3": null,
     "forme4": null
@@ -1434,7 +1434,7 @@
   {
     "MASC": "expert-comptable",
     "FEM": "experte-comptable",
-    "forme1": "expert‧e-comptable",
+    "forme1": "expert\u2027e-comptable",
     "forme2": "expert⋅e-comptable",
     "forme3": null,
     "forme4": null
@@ -1442,7 +1442,7 @@
   {
     "MASC": "exploitant",
     "FEM": "exploitante",
-    "forme1": "exploitant‧e",
+    "forme1": "exploitant\u2027e",
     "forme2": "exploitant⋅e",
     "forme3": null,
     "forme4": null
@@ -1450,7 +1450,7 @@
   {
     "MASC": "fabricant",
     "FEM": "fabricante",
-    "forme1": "fabricant‧e",
+    "forme1": "fabricant\u2027e",
     "forme2": "fabricant⋅e",
     "forme3": null,
     "forme4": null
@@ -1458,7 +1458,7 @@
   {
     "MASC": "facteur",
     "FEM": "factrice",
-    "forme1": "facteur‧trice",
+    "forme1": "facteur\u2027trice",
     "forme2": "fac⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1466,7 +1466,7 @@
   {
     "MASC": "ferblantier",
     "FEM": "ferblantière",
-    "forme1": "ferblantier‧ère",
+    "forme1": "ferblantier\u2027ère",
     "forme2": "ferblantier⋅e",
     "forme3": null,
     "forme4": null
@@ -1474,7 +1474,7 @@
   {
     "MASC": "ferrailleur",
     "FEM": "ferrailleuse",
-    "forme1": "ferrailleur‧euse",
+    "forme1": "ferrailleur\u2027euse",
     "forme2": "ferrailleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1482,7 +1482,7 @@
   {
     "MASC": "financier",
     "FEM": "financière",
-    "forme1": "financier‧ère",
+    "forme1": "financier\u2027ère",
     "forme2": "financier⋅e",
     "forme3": null,
     "forme4": null
@@ -1498,7 +1498,7 @@
   {
     "MASC": "fondeur",
     "FEM": "fondeuse",
-    "forme1": "fondeur‧euse",
+    "forme1": "fondeur\u2027euse",
     "forme2": "fondeu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1506,7 +1506,7 @@
   {
     "MASC": "foreur",
     "FEM": "foreuse",
-    "forme1": "foreur‧euse",
+    "forme1": "foreur\u2027euse",
     "forme2": "foreu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1514,7 +1514,7 @@
   {
     "MASC": "forgeron",
     "FEM": "forgeronne",
-    "forme1": "forgeron‧ne",
+    "forme1": "forgeron\u2027ne",
     "forme2": "forgeron⋅ne",
     "forme3": null,
     "forme4": null
@@ -1522,7 +1522,7 @@
   {
     "MASC": "formateur",
     "FEM": "formatrice",
-    "forme1": "formateur‧trice",
+    "forme1": "formateur\u2027trice",
     "forme2": "forma⋅teur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1530,7 +1530,7 @@
   {
     "MASC": "fournisseur",
     "FEM": "fournisseuse",
-    "forme1": "fournisseur‧euse",
+    "forme1": "fournisseur\u2027euse",
     "forme2": "fournisseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1538,7 +1538,7 @@
   {
     "MASC": "fraiseur",
     "FEM": "fraiseuse",
-    "forme1": "fraiseur‧euse",
+    "forme1": "fraiseur\u2027euse",
     "forme2": "fraiseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1546,7 +1546,7 @@
   {
     "MASC": "franchiseur",
     "FEM": "franchiseuse",
-    "forme1": "franchiseur‧euse",
+    "forme1": "franchiseur\u2027euse",
     "forme2": "franchiseu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1562,7 +1562,7 @@
   {
     "MASC": "garde forestier",
     "FEM": "garde forestière",
-    "forme1": "garde forestier‧ère",
+    "forme1": "garde forestier\u2027ère",
     "forme2": "garde forestier⋅e",
     "forme3": null,
     "forme4": null
@@ -1570,7 +1570,7 @@
   {
     "MASC": "gardien",
     "FEM": "gardienne",
-    "forme1": "gardien‧ne",
+    "forme1": "gardien\u2027ne",
     "forme2": "gardie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -1578,7 +1578,7 @@
   {
     "MASC": "généticien",
     "FEM": "généticienne",
-    "forme1": "généticien‧ne",
+    "forme1": "généticien\u2027ne",
     "forme2": "généticie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -1602,7 +1602,7 @@
   {
     "MASC": "géophysicien",
     "FEM": "géophysicienne",
-    "forme1": "géophysicien‧ne",
+    "forme1": "géophysicien\u2027ne",
     "forme2": "géophysicie⋅n⋅ne",
     "forme3": null,
     "forme4": null
@@ -1610,7 +1610,7 @@
   {
     "MASC": "gérant",
     "FEM": "gérante",
-    "forme1": "gérant‧e",
+    "forme1": "gérant\u2027e",
     "forme2": "gérant⋅e",
     "forme3": null,
     "forme4": null
@@ -1626,7 +1626,7 @@
   {
     "MASC": "gouverneur",
     "FEM": "gouverneure",
-    "forme1": "gouverneur‧e",
+    "forme1": "gouverneur\u2027e",
     "forme2": "gouverneur⋅e",
     "forme3": null,
     "forme4": null
@@ -1634,7 +1634,7 @@
   {
     "MASC": "graveur",
     "FEM": "graveuse",
-    "forme1": "graveur‧euse",
+    "forme1": "graveur\u2027euse",
     "forme2": "graveu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1642,7 +1642,7 @@
   {
     "MASC": "greffier",
     "FEM": "greffière",
-    "forme1": "greffier‧ère",
+    "forme1": "greffier\u2027ère",
     "forme2": "greffier⋅e",
     "forme3": null,
     "forme4": null
@@ -1650,7 +1650,7 @@
   {
     "MASC": "guichetier",
     "FEM": "guichetière",
-    "forme1": "guichetier‧ère",
+    "forme1": "guichetier\u2027ère",
     "forme2": "guichetier⋅e",
     "forme3": null,
     "forme4": null
@@ -1666,7 +1666,7 @@
   {
     "MASC": "habilleur",
     "FEM": "habilleuse",
-    "forme1": "habilleur‧euse",
+    "forme1": "habilleur\u2027euse",
     "forme2": "habilleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -1674,7 +1674,7 @@
   {
     "MASC": "horloger",
     "FEM": "horlogère",
-    "forme1": "horloger‧ère",
+    "forme1": "horloger\u2027ère",
     "forme2": "horloger⋅ère",
     "forme3": null,
     "forme4": null
@@ -1682,7 +1682,7 @@
   {
     "MASC": "horticulteur",
     "FEM": "horticultrice",
-    "forme1": "horticulteur‧trice",
+    "forme1": "horticulteur\u2027trice",
     "forme2": "horticulteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1690,13 +1690,13 @@
   {
     "MASC": "hôte (qui reçoit)",
     "FEM": "hôtesse",
-    "forme1": "hôte‧sse",
+    "forme1": "hôte\u2027sse",
     "forme2": "hôte; hôte⋅sse",
     "forme3": "hôte",
     "forme4": null
   },
   {
-    "MASC": "hôte (qui est reçu‧e)",
+    "MASC": "hôte (qui est reçu\u2027e)",
     "FEM": "hôte",
     "forme1": "hôte",
     "forme2": "hôte; hôte⋅sse",
@@ -1706,7 +1706,7 @@
   {
     "MASC": "hôtelier",
     "FEM": "hôtelière",
-    "forme1": "hôtelier‧ère",
+    "forme1": "hôtelier\u2027ère",
     "forme2": "hôtelier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1714,7 +1714,7 @@
   {
     "MASC": "huileur",
     "FEM": "huileuse",
-    "forme1": "huileur‧euse",
+    "forme1": "huileur\u2027euse",
     "forme2": "huileur⋅se",
     "forme3": null,
     "forme4": null
@@ -1722,7 +1722,7 @@
   {
     "MASC": "huissier",
     "FEM": "huissière",
-    "forme1": "huissier‧ère",
+    "forme1": "huissier\u2027ère",
     "forme2": "huissier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1738,7 +1738,7 @@
   {
     "MASC": "illustrateur",
     "FEM": "illustratrice",
-    "forme1": "illustrateur‧trice",
+    "forme1": "illustrateur\u2027trice",
     "forme2": "illustrateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1754,7 +1754,7 @@
   {
     "MASC": "imprimeur",
     "FEM": "imprimeuse",
-    "forme1": "imprimeur‧euse",
+    "forme1": "imprimeur\u2027euse",
     "forme2": "imprimeur⋅se",
     "forme3": null,
     "forme4": null
@@ -1762,7 +1762,7 @@
   {
     "MASC": "industriel",
     "FEM": "industrielle",
-    "forme1": "industriel‧le",
+    "forme1": "industriel\u2027le",
     "forme2": "insdustriel⋅le",
     "forme3": null,
     "forme4": null
@@ -1770,7 +1770,7 @@
   {
     "MASC": "infirmier",
     "FEM": "infirmière",
-    "forme1": "infirmier‧ère",
+    "forme1": "infirmier\u2027ère",
     "forme2": "infirmier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1786,7 +1786,7 @@
   {
     "MASC": "informaticien",
     "FEM": "informaticienne",
-    "forme1": "informaticien‧ne",
+    "forme1": "informaticien\u2027ne",
     "forme2": "informaticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -1794,7 +1794,7 @@
   {
     "MASC": "ingénieur",
     "FEM": "ingénieure",
-    "forme1": "ingénieur‧e",
+    "forme1": "ingénieur\u2027e",
     "forme2": "ingénieur⋅e",
     "forme3": null,
     "forme4": null
@@ -1802,7 +1802,7 @@
   {
     "MASC": "ingénieur chimiste",
     "FEM": "ingénieure chimiste",
-    "forme1": "ingénieur‧e chimiste",
+    "forme1": "ingénieur\u2027e chimiste",
     "forme2": "ingénieur⋅e chimiste",
     "forme3": null,
     "forme4": null
@@ -1810,7 +1810,7 @@
   {
     "MASC": "ingénieur civil",
     "FEM": "ingénieure civile",
-    "forme1": "ingénieur‧e civile",
+    "forme1": "ingénieur\u2027e civile",
     "forme2": "ingénieur⋅e civil⋅e",
     "forme3": null,
     "forme4": null
@@ -1818,7 +1818,7 @@
   {
     "MASC": "ingénieur forestier",
     "FEM": "ingénieure forestière",
-    "forme1": "ingénieur‧e forestière",
+    "forme1": "ingénieur\u2027e forestière",
     "forme2": "ingénieur⋅e forestier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1826,7 +1826,7 @@
   {
     "MASC": "inspecteur",
     "FEM": "inspectrice",
-    "forme1": "inspecteur‧trice",
+    "forme1": "inspecteur\u2027trice",
     "forme2": "inspecteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1834,7 +1834,7 @@
   {
     "MASC": "instituteur",
     "FEM": "institutrice",
-    "forme1": "instituteur‧trice",
+    "forme1": "instituteur\u2027trice",
     "forme2": "instituteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1842,7 +1842,7 @@
   {
     "MASC": "instructeur",
     "FEM": "instructrice",
-    "forme1": "instructeur‧trice",
+    "forme1": "instructeur\u2027trice",
     "forme2": "instructeur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1850,7 +1850,7 @@
   {
     "MASC": "intendant",
     "FEM": "intendante",
-    "forme1": "intendant‧e",
+    "forme1": "intendant\u2027e",
     "forme2": "intendant⋅e",
     "forme3": null,
     "forme4": null
@@ -1866,7 +1866,7 @@
   {
     "MASC": "interlocuteur",
     "FEM": "interlocutrice",
-    "forme1": "interlocuteur‧trice",
+    "forme1": "interlocuteur\u2027trice",
     "forme2": "interlocuteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1882,7 +1882,7 @@
   {
     "MASC": "intervenant",
     "FEM": "intervenante",
-    "forme1": "intervenant‧e",
+    "forme1": "intervenant\u2027e",
     "forme2": "intervenant⋅e",
     "forme3": null,
     "forme4": null
@@ -1890,7 +1890,7 @@
   {
     "MASC": "intervieweur",
     "FEM": "intervieweuse",
-    "forme1": "intervieweur‧euse",
+    "forme1": "intervieweur\u2027euse",
     "forme2": "intervieweur⋅se",
     "forme3": null,
     "forme4": null
@@ -1898,7 +1898,7 @@
   {
     "MASC": "investisseur",
     "FEM": "investisseuse",
-    "forme1": "investisseur‧euse",
+    "forme1": "investisseur\u2027euse",
     "forme2": "investisseur⋅se",
     "forme3": null,
     "forme4": null
@@ -1906,7 +1906,7 @@
   {
     "MASC": "jardinier",
     "FEM": "jardinière",
-    "forme1": "jardinier‧ère",
+    "forme1": "jardinier\u2027ère",
     "forme2": "jardinier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1922,7 +1922,7 @@
   {
     "MASC": "journaliste sportif",
     "FEM": "journaliste sportive",
-    "forme1": "journaliste sportif‧ve",
+    "forme1": "journaliste sportif\u2027ve",
     "forme2": "journaliste sportif⋅ve",
     "forme3": null,
     "forme4": null
@@ -1938,7 +1938,7 @@
   {
     "MASC": "juré",
     "FEM": "jurée",
-    "forme1": "juré‧e",
+    "forme1": "juré\u2027e",
     "forme2": "juré⋅e",
     "forme3": null,
     "forme4": null
@@ -1954,7 +1954,7 @@
   {
     "MASC": "lamineur",
     "FEM": "lamineuse",
-    "forme1": "lamineur‧euse",
+    "forme1": "lamineur\u2027euse",
     "forme2": "lamineur⋅se",
     "forme3": null,
     "forme4": null
@@ -1962,7 +1962,7 @@
   {
     "MASC": "langagier",
     "FEM": "langagière",
-    "forme1": "langagier‧ère",
+    "forme1": "langagier\u2027ère",
     "forme2": "langagier⋅ère",
     "forme3": null,
     "forme4": null
@@ -1970,7 +1970,7 @@
   {
     "MASC": "lecteur",
     "FEM": "lectrice",
-    "forme1": "lecteur‧trice",
+    "forme1": "lecteur\u2027trice",
     "forme2": "lecteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1978,7 +1978,7 @@
   {
     "MASC": "législateur",
     "FEM": "législatrice",
-    "forme1": "législateur‧trice",
+    "forme1": "législateur\u2027trice",
     "forme2": "légalisateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -1986,7 +1986,7 @@
   {
     "MASC": "lieutenant-gouverneur",
     "FEM": "lieutenante-gouverneure",
-    "forme1": "lieutenant‧e-gouverneur‧e",
+    "forme1": "lieutenant\u2027e-gouverneur\u2027e",
     "forme2": "lieutenant⋅e-gourverneur⋅e",
     "forme3": null,
     "forme4": null
@@ -2010,7 +2010,7 @@
   {
     "MASC": "maçon",
     "FEM": "maçonne",
-    "forme1": "maçon‧ne",
+    "forme1": "maçon\u2027ne",
     "forme2": "maçon⋅ne",
     "forme3": null,
     "forme4": null
@@ -2018,7 +2018,7 @@
   {
     "MASC": "magasinier",
     "FEM": "magasinière",
-    "forme1": "magasinier‧ère",
+    "forme1": "magasinier\u2027ère",
     "forme2": "magasinier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2026,7 +2026,7 @@
   {
     "MASC": "magistrat",
     "FEM": "magistrate",
-    "forme1": "magistrat‧e",
+    "forme1": "magistrat\u2027e",
     "forme2": "magistrat⋅e",
     "forme3": null,
     "forme4": null
@@ -2042,7 +2042,7 @@
   {
     "MASC": "maître",
     "FEM": "maître; maîtresse",
-    "forme1": "maître‧sse",
+    "forme1": "maître\u2027sse",
     "forme2": "maître⋅sse",
     "forme3": "maître",
     "forme4": null
@@ -2050,7 +2050,7 @@
   {
     "MASC": "malfaiteur",
     "FEM": "malfaitrice",
-    "forme1": "malfaiteur‧trice",
+    "forme1": "malfaiteur\u2027trice",
     "forme2": "malfaiteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2074,7 +2074,7 @@
   {
     "MASC": "maquilleur",
     "FEM": "maquilleuse",
-    "forme1": "maquilleur‧euse",
+    "forme1": "maquilleur\u2027euse",
     "forme2": "maquilleur⋅se",
     "forme3": null,
     "forme4": null
@@ -2082,7 +2082,7 @@
   {
     "MASC": "maraîcher",
     "FEM": "maraîchère",
-    "forme1": "maraîcher‧ère",
+    "forme1": "maraîcher\u2027ère",
     "forme2": "maraîcher⋅ère",
     "forme3": null,
     "forme4": null
@@ -2090,7 +2090,7 @@
   {
     "MASC": "marchand",
     "FEM": "marchande",
-    "forme1": "marchand‧e",
+    "forme1": "marchand\u2027e",
     "forme2": "marchand⋅e",
     "forme3": null,
     "forme4": null
@@ -2098,7 +2098,7 @@
   {
     "MASC": "marguillier",
     "FEM": "marguillière",
-    "forme1": "marguillier‧ère",
+    "forme1": "marguillier\u2027ère",
     "forme2": "marguillier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2114,7 +2114,7 @@
   {
     "MASC": "masseur",
     "FEM": "masseuse",
-    "forme1": "masseur‧euse",
+    "forme1": "masseur\u2027euse",
     "forme2": "masseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2130,7 +2130,7 @@
   {
     "MASC": "mathématicien",
     "FEM": "mathématicienne",
-    "forme1": "mathématicien‧ne",
+    "forme1": "mathématicien\u2027ne",
     "forme2": "mathématicien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2138,7 +2138,7 @@
   {
     "MASC": "mécanicien",
     "FEM": "mécanicienne",
-    "forme1": "mécanicien‧ne",
+    "forme1": "mécanicien\u2027ne",
     "forme2": "mécanicien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2162,7 +2162,7 @@
   {
     "MASC": "médiateur",
     "FEM": "médiatrice",
-    "forme1": "médiateur‧trice",
+    "forme1": "médiateur\u2027trice",
     "forme2": "médiateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2178,15 +2178,15 @@
   {
     "MASC": "menuisier",
     "FEM": "menuisière",
-    "forme1": "menuisier‧ère",
-    "forme2": "menuisi‧er⋅ère",
+    "forme1": "menuisier\u2027ère",
+    "forme2": "menuisi\u2027er⋅ère",
     "forme3": null,
     "forme4": null
   },
   {
     "MASC": "messager",
     "FEM": "messagère",
-    "forme1": "messager‧ère",
+    "forme1": "messager\u2027ère",
     "forme2": "messager⋅ère",
     "forme3": null,
     "forme4": null
@@ -2202,9 +2202,9 @@
   {
     "MASC": "metteur en scène",
     "FEM": "metteuse en scène",
-    "forme1": "metteur‧euse en scène",
+    "forme1": "metteur\u2027euse en scène",
     "forme2": "metteur⋅se en scène",
-    "forme3": "metteur‧e en scène",
+    "forme3": "metteur\u2027e en scène",
     "forme4": null
   },
   {
@@ -2218,7 +2218,7 @@
   {
     "MASC": "mineur",
     "FEM": "mineuse",
-    "forme1": "mineur‧euse",
+    "forme1": "mineur\u2027euse",
     "forme2": "mineur⋅se",
     "forme3": null,
     "forme4": null
@@ -2242,7 +2242,7 @@
   {
     "MASC": "moniteur",
     "FEM": "monitrice",
-    "forme1": "moniteur‧trice",
+    "forme1": "moniteur\u2027trice",
     "forme2": "moniteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2250,7 +2250,7 @@
   {
     "MASC": "monteur",
     "FEM": "monteuse",
-    "forme1": "monteur‧teuse",
+    "forme1": "monteur\u2027teuse",
     "forme2": "monteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2258,7 +2258,7 @@
   {
     "MASC": "narrateur",
     "FEM": "narratrice",
-    "forme1": "narrateur‧trice",
+    "forme1": "narrateur\u2027trice",
     "forme2": "narrateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2266,7 +2266,7 @@
   {
     "MASC": "naturopraticien",
     "FEM": "naturopraticienne",
-    "forme1": "naturopraticien‧ne",
+    "forme1": "naturopraticien\u2027ne",
     "forme2": "naturopracticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2274,7 +2274,7 @@
   {
     "MASC": "navigateur",
     "FEM": "navigatrice",
-    "forme1": "navigateur‧trice",
+    "forme1": "navigateur\u2027trice",
     "forme2": "navigateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2282,7 +2282,7 @@
   {
     "MASC": "nettoyeur",
     "FEM": "nettoyeuse",
-    "forme1": "nettoyeur‧euse",
+    "forme1": "nettoyeur\u2027euse",
     "forme2": "nettoyeur⋅se",
     "forme3": null,
     "forme4": null
@@ -2298,7 +2298,7 @@
   {
     "MASC": "officier",
     "FEM": "officière",
-    "forme1": "officier‧ère",
+    "forme1": "officier\u2027ère",
     "forme2": "officier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2306,7 +2306,7 @@
   {
     "MASC": "omnipraticien",
     "FEM": "omnipraticienne",
-    "forme1": "omnipraticien‧ne",
+    "forme1": "omnipraticien\u2027ne",
     "forme2": "omnipraticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2314,7 +2314,7 @@
   {
     "MASC": "opérateur",
     "FEM": "opératrice",
-    "forme1": "opérateur‧trice",
+    "forme1": "opérateur\u2027trice",
     "forme2": "opérateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2322,7 +2322,7 @@
   {
     "MASC": "opticien",
     "FEM": "opticienne",
-    "forme1": "opticien‧ne",
+    "forme1": "opticien\u2027ne",
     "forme2": "opticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2330,7 +2330,7 @@
   {
     "MASC": "orateur",
     "FEM": "oratrice",
-    "forme1": "orateur‧trice",
+    "forme1": "orateur\u2027trice",
     "forme2": "orateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2338,7 +2338,7 @@
   {
     "MASC": "orchestrateur",
     "FEM": "orchestratrice",
-    "forme1": "orchestrateur‧trice",
+    "forme1": "orchestrateur\u2027trice",
     "forme2": "orchestrateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2354,7 +2354,7 @@
   {
     "MASC": "orienteur",
     "FEM": "orienteuse",
-    "forme1": "orienteur‧euse",
+    "forme1": "orienteur\u2027euse",
     "forme2": "orienteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2362,7 +2362,7 @@
   {
     "MASC": "ouvrier",
     "FEM": "ouvrière",
-    "forme1": "ouvrier‧ère",
+    "forme1": "ouvrier\u2027ère",
     "forme2": "ouvrier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2370,7 +2370,7 @@
   {
     "MASC": "pâtissier",
     "FEM": "pâtissière",
-    "forme1": "pâtissier‧ère",
+    "forme1": "pâtissier\u2027ère",
     "forme2": "patissier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2378,7 +2378,7 @@
   {
     "MASC": "patrouilleur",
     "FEM": "patrouilleuse",
-    "forme1": "patrouilleur‧euse",
+    "forme1": "patrouilleur\u2027euse",
     "forme2": "patrouilleur⋅se",
     "forme3": null,
     "forme4": null
@@ -2394,9 +2394,9 @@
   {
     "MASC": "paysan",
     "FEM": "paysanne",
-    "forme1": "paysan‧ne",
-    "forme2": "pays‧an‧anne",
-    "forme3": "paysan‧ne",
+    "forme1": "paysan\u2027ne",
+    "forme2": "pays\u2027an\u2027anne",
+    "forme3": "paysan\u2027ne",
     "forme4": null
   },
   {
@@ -2418,15 +2418,15 @@
   {
     "MASC": "peintre",
     "FEM": "peintresse",
-    "forme1": "peintre‧esse",
-    "forme2": "peintr‧e‧esse",
+    "forme1": "peintre\u2027esse",
+    "forme2": "peintr\u2027e\u2027esse",
     "forme3": null,
     "forme4": null
   },
   {
     "MASC": "percepteur",
     "FEM": "perceptrice",
-    "forme1": "percepteur‧trice",
+    "forme1": "percepteur\u2027trice",
     "forme2": "percepteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2434,7 +2434,7 @@
   {
     "MASC": "perruquier",
     "FEM": "perruquière",
-    "forme1": "perruquier‧ère",
+    "forme1": "perruquier\u2027ère",
     "forme2": "perruquier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2442,7 +2442,7 @@
   {
     "MASC": "pharmacien",
     "FEM": "pharmacienne",
-    "forme1": "pharmacien‧ne",
+    "forme1": "pharmacien\u2027ne",
     "forme2": "pharmacien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2450,7 +2450,7 @@
   {
     "MASC": "physicien",
     "FEM": "physicienne",
-    "forme1": "physicien‧ne",
+    "forme1": "physicien\u2027ne",
     "forme2": "physicien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2482,7 +2482,7 @@
   {
     "MASC": "pisciculteur",
     "FEM": "piscicultrice",
-    "forme1": "pisciculteur‧trice",
+    "forme1": "pisciculteur\u2027trice",
     "forme2": "pisciculteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2490,7 +2490,7 @@
   {
     "MASC": "plâtrier",
     "FEM": "plâtrière",
-    "forme1": "plâtrier‧ère",
+    "forme1": "plâtrier\u2027ère",
     "forme2": "platrier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2498,7 +2498,7 @@
   {
     "MASC": "plombier",
     "FEM": "plombière",
-    "forme1": "plombier‧ère",
+    "forme1": "plombier\u2027ère",
     "forme2": "plombie⋅ère",
     "forme3": null,
     "forme4": null
@@ -2506,7 +2506,7 @@
   {
     "MASC": "plongeur",
     "FEM": "plongeuse",
-    "forme1": "plongeur‧euse",
+    "forme1": "plongeur\u2027euse",
     "forme2": "plongeur⋅se",
     "forme3": null,
     "forme4": null
@@ -2522,7 +2522,7 @@
   {
     "MASC": "policier",
     "FEM": "policière",
-    "forme1": "policier‧ère",
+    "forme1": "policier\u2027ère",
     "forme2": "policier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2530,7 +2530,7 @@
   {
     "MASC": "polisseur",
     "FEM": "polisseuse",
-    "forme1": "polisseur‧euse",
+    "forme1": "polisseur\u2027euse",
     "forme2": "polisseur⋅polisseuse",
     "forme3": null,
     "forme4": null
@@ -2538,7 +2538,7 @@
   {
     "MASC": "pompier",
     "FEM": "pompière",
-    "forme1": "pompier‧ère",
+    "forme1": "pompier\u2027ère",
     "forme2": "pompier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2554,7 +2554,7 @@
   {
     "MASC": "poseur",
     "FEM": "poseuse",
-    "forme1": "poseur‧euse",
+    "forme1": "poseur\u2027euse",
     "forme2": "poseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2562,7 +2562,7 @@
   {
     "MASC": "postulant",
     "FEM": "postulante",
-    "forme1": "postulant‧e",
+    "forme1": "postulant\u2027e",
     "forme2": "postulant⋅e",
     "forme3": null,
     "forme4": null
@@ -2570,7 +2570,7 @@
   {
     "MASC": "potier",
     "FEM": "potière",
-    "forme1": "potier‧ère",
+    "forme1": "potier\u2027ère",
     "forme2": "potier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2578,7 +2578,7 @@
   {
     "MASC": "pourvoyeur",
     "FEM": "pourvoyeuse",
-    "forme1": "pourvoyeur‧euse",
+    "forme1": "pourvoyeur\u2027euse",
     "forme2": "pourvoyeur⋅se",
     "forme3": null,
     "forme4": null
@@ -2586,7 +2586,7 @@
   {
     "MASC": "praticien",
     "FEM": "praticienne",
-    "forme1": "praticien‧ne",
+    "forme1": "praticien\u2027ne",
     "forme2": "praticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -2594,7 +2594,7 @@
   {
     "MASC": "précurseur",
     "FEM": "précurseure",
-    "forme1": "précurseur‧e",
+    "forme1": "précurseur\u2027e",
     "forme2": "précurseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2602,7 +2602,7 @@
   {
     "MASC": "prédécesseur",
     "FEM": "prédécesseure",
-    "forme1": "prédécesseur‧e",
+    "forme1": "prédécesseur\u2027e",
     "forme2": "prédécesseur⋅e",
     "forme3": null,
     "forme4": null
@@ -2610,7 +2610,7 @@
   {
     "MASC": "préfet",
     "FEM": "préfète",
-    "forme1": "préfet‧ète",
+    "forme1": "préfet\u2027ète",
     "forme2": "préfet⋅ète",
     "forme3": null,
     "forme4": null
@@ -2618,7 +2618,7 @@
   {
     "MASC": "premier ministre",
     "FEM": "première ministre",
-    "forme1": "premier‧ère ministre",
+    "forme1": "premier\u2027ère ministre",
     "forme2": "premier⋅ère ministre",
     "forme3": null,
     "forme4": null
@@ -2626,7 +2626,7 @@
   {
     "MASC": "préposé",
     "FEM": "préposée",
-    "forme1": "préposé‧e",
+    "forme1": "préposé\u2027e",
     "forme2": "préposé⋅e",
     "forme3": null,
     "forme4": null
@@ -2634,7 +2634,7 @@
   {
     "MASC": "présentateur",
     "FEM": "présentatrice",
-    "forme1": "présentateur‧trice",
+    "forme1": "présentateur\u2027trice",
     "forme2": "présentateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2642,7 +2642,7 @@
   {
     "MASC": "président",
     "FEM": "présidente",
-    "forme1": "président‧e",
+    "forme1": "président\u2027e",
     "forme2": "président⋅e",
     "forme3": null,
     "forme4": null
@@ -2650,7 +2650,7 @@
   {
     "MASC": "principal",
     "FEM": "principale",
-    "forme1": "principal‧e",
+    "forme1": "principal\u2027e",
     "forme2": "principal⋅e",
     "forme3": null,
     "forme4": null
@@ -2658,15 +2658,15 @@
   {
     "MASC": "procureur",
     "FEM": "procureure",
-    "forme1": "procureur‧e",
+    "forme1": "procureur\u2027e",
     "forme2": "procureur⋅e",
-    "forme3": "procureur‧e",
+    "forme3": "procureur\u2027e",
     "forme4": null
   },
   {
     "MASC": "producteur",
     "FEM": "productrice",
-    "forme1": "producteur‧trice",
+    "forme1": "producteur\u2027trice",
     "forme2": "producteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2674,23 +2674,23 @@
   {
     "MASC": "professeur",
     "FEM": "professeure",
-    "forme1": "professeur‧e",
+    "forme1": "professeur\u2027e",
     "forme2": "professeur⋅e",
-    "forme3": "professeur‧e",
+    "forme3": "professeur\u2027e",
     "forme4": null
   },
   {
     "MASC": "professeur-chercheur",
     "FEM": "professeure-chercheuse",
-    "forme1": "professeur‧e-chercheur‧euse",
+    "forme1": "professeur\u2027e-chercheur\u2027euse",
     "forme2": "professeur⋅e-chercheur⋅se",
-    "forme3": "professeur‧e-chercheur‧e",
+    "forme3": "professeur\u2027e-chercheur\u2027e",
     "forme4": null
   },
   {
     "MASC": "programmateur",
     "FEM": "programmatrice",
-    "forme1": "programmateur‧trice",
+    "forme1": "programmateur\u2027trice",
     "forme2": "programmateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2698,7 +2698,7 @@
   {
     "MASC": "programmeur",
     "FEM": "programmeuse",
-    "forme1": "programmeur‧euse",
+    "forme1": "programmeur\u2027euse",
     "forme2": "programmeur⋅se",
     "forme3": null,
     "forme4": null
@@ -2706,7 +2706,7 @@
   {
     "MASC": "promoteur",
     "FEM": "promotrice",
-    "forme1": "promoteur‧trice",
+    "forme1": "promoteur\u2027trice",
     "forme2": "promoteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2714,7 +2714,7 @@
   {
     "MASC": "prospecteur",
     "FEM": "prospectrice",
-    "forme1": "prospecteur‧trice",
+    "forme1": "prospecteur\u2027trice",
     "forme2": "prospecteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2722,7 +2722,7 @@
   {
     "MASC": "puériculteur",
     "FEM": "puéricultrice",
-    "forme1": "puériculteur‧trice",
+    "forme1": "puériculteur\u2027trice",
     "forme2": "puériculteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2746,7 +2746,7 @@
   {
     "MASC": "rapporteur",
     "FEM": "rapporteuse",
-    "forme1": "rapporteur‧euse",
+    "forme1": "rapporteur\u2027euse",
     "forme2": "rapporteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2754,7 +2754,7 @@
   {
     "MASC": "réalisateur",
     "FEM": "réalisatrice",
-    "forme1": "réalisateur‧trice",
+    "forme1": "réalisateur\u2027trice",
     "forme2": "réalisateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2762,7 +2762,7 @@
   {
     "MASC": "recenseur",
     "FEM": "recenseuse",
-    "forme1": "recenseur‧euse",
+    "forme1": "recenseur\u2027euse",
     "forme2": "recenseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2778,7 +2778,7 @@
   {
     "MASC": "recruteur",
     "FEM": "recruteuse",
-    "forme1": "recruteur‧euse",
+    "forme1": "recruteur\u2027euse",
     "forme2": "recruteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2786,7 +2786,7 @@
   {
     "MASC": "recteur",
     "FEM": "rectrice",
-    "forme1": "recteur‧trice",
+    "forme1": "recteur\u2027trice",
     "forme2": "recteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2794,7 +2794,7 @@
   {
     "MASC": "rédacteur",
     "FEM": "rédactrice",
-    "forme1": "rédacteur‧trice",
+    "forme1": "rédacteur\u2027trice",
     "forme2": "redacteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2802,7 +2802,7 @@
   {
     "MASC": "régisseur",
     "FEM": "régisseuse",
-    "forme1": "régisseur‧euse",
+    "forme1": "régisseur\u2027euse",
     "forme2": "régisseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2818,7 +2818,7 @@
   {
     "MASC": "rembourreur",
     "FEM": "rembourreuse",
-    "forme1": "rembourreur‧euse",
+    "forme1": "rembourreur\u2027euse",
     "forme2": "rembourreur⋅se",
     "forme3": null,
     "forme4": null
@@ -2826,7 +2826,7 @@
   {
     "MASC": "remplaçant",
     "FEM": "remplaçante",
-    "forme1": "remplaçant‧e",
+    "forme1": "remplaçant\u2027e",
     "forme2": "remplaçant⋅e",
     "forme3": null,
     "forme4": null
@@ -2834,7 +2834,7 @@
   {
     "MASC": "réparateur",
     "FEM": "réparatrice",
-    "forme1": "réparateur‧trice",
+    "forme1": "réparateur\u2027trice",
     "forme2": "réparateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2842,7 +2842,7 @@
   {
     "MASC": "répartiteur",
     "FEM": "répartitrice",
-    "forme1": "répartiteur‧trice",
+    "forme1": "répartiteur\u2027trice",
     "forme2": "répartiteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2850,7 +2850,7 @@
   {
     "MASC": "repasseur",
     "FEM": "repasseuse",
-    "forme1": "repasseur‧euse",
+    "forme1": "repasseur\u2027euse",
     "forme2": "repasseur⋅se",
     "forme3": null,
     "forme4": null
@@ -2858,7 +2858,7 @@
   {
     "MASC": "répétiteur",
     "FEM": "répétitrice",
-    "forme1": "répétiteur‧trice",
+    "forme1": "répétiteur\u2027trice",
     "forme2": "répétiteur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2866,7 +2866,7 @@
   {
     "MASC": "répondant",
     "FEM": "répondante",
-    "forme1": "répondant‧e",
+    "forme1": "répondant\u2027e",
     "forme2": "répondant⋅e",
     "forme3": null,
     "forme4": null
@@ -2874,7 +2874,7 @@
   {
     "MASC": "reporteur",
     "FEM": "reporteuse",
-    "forme1": "reporteur‧euse",
+    "forme1": "reporteur\u2027euse",
     "forme2": "reporteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2882,7 +2882,7 @@
   {
     "MASC": "représentant",
     "FEM": "représentante",
-    "forme1": "représentant‧e",
+    "forme1": "représentant\u2027e",
     "forme2": "représentant⋅e",
     "forme3": null,
     "forme4": null
@@ -2890,7 +2890,7 @@
   {
     "MASC": "requérant",
     "FEM": "requérante",
-    "forme1": "requérant‧e",
+    "forme1": "requérant\u2027e",
     "forme2": "requérant⋅e",
     "forme3": null,
     "forme4": null
@@ -2906,7 +2906,7 @@
   {
     "MASC": "restaurateur",
     "FEM": "restauratrice",
-    "forme1": "restaurateur‧trice",
+    "forme1": "restaurateur\u2027trice",
     "forme2": "restaurateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2914,7 +2914,7 @@
   {
     "MASC": "retraité",
     "FEM": "retraitée",
-    "forme1": "retraité‧e",
+    "forme1": "retraité\u2027e",
     "forme2": "retraité⋅e",
     "forme3": null,
     "forme4": null
@@ -2922,7 +2922,7 @@
   {
     "MASC": "réviseur",
     "FEM": "réviseure",
-    "forme1": "réviseur‧e",
+    "forme1": "réviseur\u2027e",
     "forme2": "réviseur⋅e",
     "forme3": null,
     "forme4": null
@@ -2930,7 +2930,7 @@
   {
     "MASC": "sapeur-pompier",
     "FEM": "sapeuse-pompière",
-    "forme1": "sapeur‧se-pompier‧ère",
+    "forme1": "sapeur\u2027se-pompier\u2027ère",
     "forme2": "sapeur⋅se-pompier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2938,7 +2938,7 @@
   {
     "MASC": "sauveteur",
     "FEM": "sauveteuse",
-    "forme1": "sauveteur‧euse",
+    "forme1": "sauveteur\u2027euse",
     "forme2": "sauveteur⋅se",
     "forme3": null,
     "forme4": null
@@ -2946,7 +2946,7 @@
   {
     "MASC": "scrutateur",
     "FEM": "scrutatrice",
-    "forme1": "scrutateur‧trice",
+    "forme1": "scrutateur\u2027trice",
     "forme2": "scrutateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2954,9 +2954,9 @@
   {
     "MASC": "sculpteur",
     "FEM": "sculptrice",
-    "forme1": "sculpteur‧trice",
+    "forme1": "sculpteur\u2027trice",
     "forme2": "sculpteur⋅trice",
-    "forme3": "sculpteur‧e",
+    "forme3": "sculpteur\u2027e",
     "forme4": null
   },
   {
@@ -2970,7 +2970,7 @@
   {
     "MASC": "secrétaire-trésorier",
     "FEM": "secrétaire-trésorière",
-    "forme1": "secrétaire-trésorier‧ère",
+    "forme1": "secrétaire-trésorier\u2027ère",
     "forme2": "secrétaire-trésorier⋅ère",
     "forme3": null,
     "forme4": null
@@ -2978,7 +2978,7 @@
   {
     "MASC": "sénateur",
     "FEM": "sénatrice",
-    "forme1": "sénateur‧trice",
+    "forme1": "sénateur\u2027trice",
     "forme2": "sénateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -2986,7 +2986,7 @@
   {
     "MASC": "sergent",
     "FEM": "sergente",
-    "forme1": "sergent‧e",
+    "forme1": "sergent\u2027e",
     "forme2": "sergent⋅e",
     "forme3": null,
     "forme4": null
@@ -2994,7 +2994,7 @@
   {
     "MASC": "serrurier",
     "FEM": "serrurière",
-    "forme1": "serrurier‧ère",
+    "forme1": "serrurier\u2027ère",
     "forme2": "serrurier⋅ère",
     "forme3": null,
     "forme4": null
@@ -3002,7 +3002,7 @@
   {
     "MASC": "serveur",
     "FEM": "serveuse",
-    "forme1": "serveur‧euse",
+    "forme1": "serveur\u2027euse",
     "forme2": "serveur⋅se",
     "forme3": null,
     "forme4": null
@@ -3010,7 +3010,7 @@
   {
     "MASC": "soigneur",
     "FEM": "soigneuse",
-    "forme1": "soigneur‧euse",
+    "forme1": "soigneur\u2027euse",
     "forme2": "soigneur⋅se",
     "forme3": null,
     "forme4": null
@@ -3018,7 +3018,7 @@
   {
     "MASC": "solliciteur",
     "FEM": "solliciteuse",
-    "forme1": "solliciteur‧euse",
+    "forme1": "solliciteur\u2027euse",
     "forme2": "solliciteur⋅se",
     "forme3": null,
     "forme4": null
@@ -3026,7 +3026,7 @@
   {
     "MASC": "soudeur",
     "FEM": "soudeuse",
-    "forme1": "soudeur‧euse",
+    "forme1": "soudeur\u2027euse",
     "forme2": "soudeur⋅se",
     "forme3": null,
     "forme4": null
@@ -3034,7 +3034,7 @@
   {
     "MASC": "souffleur",
     "FEM": "souffleuse",
-    "forme1": "souffleur‧euse",
+    "forme1": "souffleur\u2027euse",
     "forme2": "souffleur⋅se",
     "forme3": null,
     "forme4": null
@@ -3050,7 +3050,7 @@
   {
     "MASC": "sous-traitant",
     "FEM": "sous-traitante",
-    "forme1": "sous-traitant‧e",
+    "forme1": "sous-traitant\u2027e",
     "forme2": "sous-traitant⋅e",
     "forme3": null,
     "forme4": null
@@ -3066,7 +3066,7 @@
   {
     "MASC": "statisticien",
     "FEM": "statisticienne",
-    "forme1": "statisticien‧ne",
+    "forme1": "statisticien\u2027ne",
     "forme2": "statisticien⋅ne",
     "forme3": null,
     "forme4": null
@@ -3082,15 +3082,15 @@
   {
     "MASC": "successeur",
     "FEM": "successeuse",
-    "forme1": "successeur‧euse",
-    "forme2": "success‧eur‧eure",
-    "forme3": "successeur‧e",
+    "forme1": "successeur\u2027euse",
+    "forme2": "success\u2027eur\u2027eure",
+    "forme3": "successeur\u2027e",
     "forme4": null
   },
   {
     "MASC": "supérieur",
     "FEM": "supérieure",
-    "forme1": "supérieur‧e",
+    "forme1": "supérieur\u2027e",
     "forme2": "supérieur⋅e",
     "forme3": null,
     "forme4": null
@@ -3098,7 +3098,7 @@
   {
     "MASC": "superviseur",
     "FEM": "superviseuse",
-    "forme1": "superviseur‧euse",
+    "forme1": "superviseur\u2027euse",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3106,7 +3106,7 @@
   {
     "MASC": "surintendant",
     "FEM": "surintendante",
-    "forme1": "surintendant‧e",
+    "forme1": "surintendant\u2027e",
     "forme2": "surintendant⋅e",
     "forme3": null,
     "forme4": null
@@ -3114,7 +3114,7 @@
   {
     "MASC": "surveillant",
     "FEM": "surveillante",
-    "forme1": "surveillant‧e",
+    "forme1": "surveillant\u2027e",
     "forme2": "surveillant⋅e",
     "forme3": null,
     "forme4": null
@@ -3122,7 +3122,7 @@
   {
     "MASC": "syndic",
     "FEM": "syndique",
-    "forme1": "syndic‧que",
+    "forme1": "syndic\u2027que",
     "forme2": "syndic⋅que",
     "forme3": null,
     "forme4": null
@@ -3130,7 +3130,7 @@
   {
     "MASC": "tailleur",
     "FEM": "tailleuse",
-    "forme1": "tailleur‧euse",
+    "forme1": "tailleur\u2027euse",
     "forme2": "tailleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -3138,7 +3138,7 @@
   {
     "MASC": "tapissier",
     "FEM": "tapissière",
-    "forme1": "tapissier‧ère",
+    "forme1": "tapissier\u2027ère",
     "forme2": "tapissier⋅ère",
     "forme3": null,
     "forme4": null
@@ -3146,7 +3146,7 @@
   {
     "MASC": "technicien",
     "FEM": "technicienne",
-    "forme1": "technicien‧ne",
+    "forme1": "technicien\u2027ne",
     "forme2": "technicien⋅ne",
     "forme3": null,
     "forme4": null
@@ -3162,7 +3162,7 @@
   {
     "MASC": "teneur de livres",
     "FEM": "teneuse de livres",
-    "forme1": "teneur‧euse de livres",
+    "forme1": "teneur\u2027euse de livres",
     "forme2": "teneu⋅r⋅se de livres",
     "forme3": null,
     "forme4": null
@@ -3178,7 +3178,7 @@
   {
     "MASC": "tisserand",
     "FEM": "tisserande",
-    "forme1": "tisserand‧e",
+    "forme1": "tisserand\u2027e",
     "forme2": "tisserand⋅e",
     "forme3": null,
     "forme4": null
@@ -3186,7 +3186,7 @@
   {
     "MASC": "traducteur",
     "FEM": "traductrice",
-    "forme1": "traducteur‧trice",
+    "forme1": "traducteur\u2027trice",
     "forme2": "traduct⋅eur⋅rice",
     "forme3": null,
     "forme4": null
@@ -3194,7 +3194,7 @@
   {
     "MASC": "traiteur",
     "FEM": "traiteuse",
-    "forme1": "traiteur‧euse",
+    "forme1": "traiteur\u2027euse",
     "forme2": "traiteu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -3202,7 +3202,7 @@
   {
     "MASC": "travailleur",
     "FEM": "travailleuse",
-    "forme1": "travailleur‧euse",
+    "forme1": "travailleur\u2027euse",
     "forme2": "travailleu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -3210,7 +3210,7 @@
   {
     "MASC": "travailleur social",
     "FEM": "travailleuse sociale",
-    "forme1": "travailleur‧euse social",
+    "forme1": "travailleur\u2027euse social",
     "forme2": "travailleu⋅r⋅se sociale",
     "forme3": null,
     "forme4": null
@@ -3218,7 +3218,7 @@
   {
     "MASC": "trésorier",
     "FEM": "trésorière",
-    "forme1": "trésorier‧ère",
+    "forme1": "trésorier\u2027ère",
     "forme2": "trésorier⋅ère",
     "forme3": null,
     "forme4": null
@@ -3226,7 +3226,7 @@
   {
     "MASC": "trieur",
     "FEM": "trieuse",
-    "forme1": "trieur‧euse",
+    "forme1": "trieur\u2027euse",
     "forme2": "trieu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -3234,7 +3234,7 @@
   {
     "MASC": "tuteur",
     "FEM": "tutrice",
-    "forme1": "tuteur‧trice",
+    "forme1": "tuteur\u2027trice",
     "forme2": "tut⋅eur⋅rice",
     "forme3": null,
     "forme4": null
@@ -3242,7 +3242,7 @@
   {
     "MASC": "tuyauteur",
     "FEM": "tuyauteuse",
-    "forme1": "tuyauteur‧euse",
+    "forme1": "tuyauteur\u2027euse",
     "forme2": "tuyauteu⋅r⋅se",
     "forme3": null,
     "forme4": null
@@ -3266,7 +3266,7 @@
   {
     "MASC": "usager",
     "FEM": "usagère",
-    "forme1": "usager‧ère",
+    "forme1": "usager\u2027ère",
     "forme2": "usager⋅ère",
     "forme3": null,
     "forme4": null
@@ -3274,7 +3274,7 @@
   {
     "MASC": "utilisateur",
     "FEM": "utilisatrice",
-    "forme1": "utilisateur‧trice",
+    "forme1": "utilisateur\u2027trice",
     "forme2": "utilisateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -3282,7 +3282,7 @@
   {
     "MASC": "vendeur",
     "FEM": "vendeuse",
-    "forme1": "vendeur‧euse",
+    "forme1": "vendeur\u2027euse",
     "forme2": "veudeur⋅euse",
     "forme3": null,
     "forme4": null
@@ -3290,7 +3290,7 @@
   {
     "MASC": "vérificateur",
     "FEM": "vérificatrice",
-    "forme1": "vérificateur‧trice",
+    "forme1": "vérificateur\u2027trice",
     "forme2": "vérificateur⋅trice",
     "forme3": null,
     "forme4": null
@@ -3306,7 +3306,7 @@
   {
     "MASC": "vice-président",
     "FEM": "vice-présidente",
-    "forme1": "vice-président‧e",
+    "forme1": "vice-président\u2027e",
     "forme2": "vice-président⋅e",
     "forme3": null,
     "forme4": null
@@ -3314,7 +3314,7 @@
   {
     "MASC": "vitrier",
     "FEM": "vitrière",
-    "forme1": "vitrier‧ère",
+    "forme1": "vitrier\u2027ère",
     "forme2": "vitrier⋅ère",
     "forme3": null,
     "forme4": null
@@ -3330,7 +3330,7 @@
   {
     "MASC": "voyant",
     "FEM": "voyante",
-    "forme1": "voyant‧e",
+    "forme1": "voyant\u2027e",
     "forme2": "voyant⋅e",
     "forme3": null,
     "forme4": null
@@ -3354,7 +3354,7 @@
   {
     "MASC": "le",
     "FEM": "la",
-    "forme1": "le‧la",
+    "forme1": "le\u2027la",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3370,7 +3370,7 @@
   {
     "MASC": "un",
     "FEM": "une",
-    "forme1": "un‧e",
+    "forme1": "un\u2027e",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3378,7 +3378,7 @@
   {
     "MASC": "uns",
     "FEM": "unes",
-    "forme1": "un‧es",
+    "forme1": "un\u2027es",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3386,7 +3386,7 @@
   {
     "MASC": "du",
     "FEM": "de la",
-    "forme1": "du‧de la",
+    "forme1": "du\u2027de la",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3402,7 +3402,7 @@
   {
     "MASC": "ce",
     "FEM": "cette",
-    "forme1": "ce‧tte",
+    "forme1": "ce\u2027tte",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3410,7 +3410,7 @@
   {
     "MASC": "cet",
     "FEM": "cette",
-    "forme1": "cet‧te",
+    "forme1": "cet\u2027te",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3426,7 +3426,7 @@
   {
     "MASC": "celui",
     "FEM": "celle",
-    "forme1": "celui‧celle",
+    "forme1": "celui\u2027celle",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3434,7 +3434,7 @@
   {
     "MASC": "mon",
     "FEM": "ma",
-    "forme1": "mon‧ma",
+    "forme1": "mon\u2027ma",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3442,7 +3442,7 @@
   {
     "MASC": "ton",
     "FEM": "ta",
-    "forme1": "ton‧ta",
+    "forme1": "ton\u2027ta",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3450,7 +3450,7 @@
   {
     "MASC": "son",
     "FEM": "sa",
-    "forme1": "son‧sa",
+    "forme1": "son\u2027sa",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3498,7 +3498,7 @@
   {
     "MASC": "celui",
     "FEM": "celle",
-    "forme1": "celui‧celle",
+    "forme1": "celui\u2027celle",
     "forme2": null,
     "forme3": "ceulle",
     "forme4": null
@@ -3506,7 +3506,7 @@
   {
     "MASC": "ceux",
     "FEM": "celles",
-    "forme1": "ceux‧celles",
+    "forme1": "ceux\u2027celles",
     "forme2": null,
     "forme3": "ceulles;celleux",
     "forme4": null
@@ -3514,7 +3514,7 @@
   {
     "MASC": "tous",
     "FEM": "toutes",
-    "forme1": "tous‧tes",
+    "forme1": "tous\u2027tes",
     "forme2": null,
     "forme3": "toustes",
     "forme4": null
