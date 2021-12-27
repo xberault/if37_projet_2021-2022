@@ -55,3 +55,20 @@
     
 
 })(jQuery);
+
+
+
+$('#speak').click(function(){
+var text = $('#txt_traduit').val();
+var msg = new SpeechSynthesisUtterance();
+msg.rate = 1;
+msg.pitch = 1;
+msg.text = text;
+msg.lang = "french"
+
+msg.onend = function(e) {
+    console.log('Finished in ' + event.elapsedTime + ' seconds.');
+};
+
+speechSynthesis.speak(msg);
+});
