@@ -1,8 +1,10 @@
 import json
+import os
 
 test = "Tous les acheteur"
 
-with open(__file__.replace("convert.py", "dico.json")) as f:
+data_file = os.path.join("data", "dico.json")
+with open(__file__.replace("convert.py", data_file)) as f:
     data = json.load(f)
 
 
@@ -24,4 +26,6 @@ def convert(splittedText):
 
     return out
 
+def convert_sentence(sentence):
+    return convert(extractWords(sentence))
 print(convert(extractWords('tous')))
