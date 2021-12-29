@@ -13,5 +13,5 @@ def index():
         #res = convert.convert(convert.extractWords(mot))
         return render_template("index.html", a_traduire=a_traduire, traduction=traduction)
     elif request.method == 'GET':
-        return render_template("index.html", traduction="get")
+        return render_template("index.html")
    
