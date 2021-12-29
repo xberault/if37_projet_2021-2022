@@ -2,7 +2,8 @@
 (function ($) {
     "use strict";
 
-    
+
+
     /*==================================================================
     [ Validate ]*/
     var input = $('.validate-input .input100');
@@ -59,16 +60,74 @@
 
 
 $('#speak').click(function(){
-var text = $('#txt_traduit').val();
-var msg = new SpeechSynthesisUtterance();
-msg.rate = 1;
-msg.pitch = 1;
-msg.text = text;
-msg.lang = "french"
+    var text = $('#txt_traduit').val();
+    var msg = new SpeechSynthesisUtterance();
+    msg.rate = 1;
+    msg.pitch = 1;
+    msg.text = text;
+    msg.lang = "french"
 
-msg.onend = function(e) {
-    console.log('Finished in ' + event.elapsedTime + ' seconds.');
-};
+    msg.onend = function(e) {
+        console.log('Finished in ' + event.elapsedTime + ' seconds.');
+    };
 
-speechSynthesis.speak(msg);
-});
+    speechSynthesis.speak(msg);
+    }
+
+
+);
+
+// speech recognition
+
+
+window.addEventListener("DOMContentLoaded", () => {
+    const button = document.getElementById("btn_spr");
+    const result = document.getElementById("txt_genre");
+    const parent = result.parentNode;
+    let listening = false;
+    const SpeechRecognition =
+      window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (typeof SpeechRecognition !== "undefined") {
+      const recognition = new SpeechRecognition();
+      recognition.lang ="fr-FR"
+
+      let btnInitialColor = button.style.background;
+
+      const stop = () => {
+        parent.classList.remove("speaking");
+        recognition.stop();
+        button.style.background = btnInitialColor;
+      };
+
+      const start = () => {
+        parent.classList.add("speaking");
+        recognition.start();
+        button.style.background = "red"
+      };
+
+      const onResult = event => {
+        result.innerHTML = "";
+        for (const res of event.results) {
+          const text = document.createTextNode(res[0].transcript);
+          const p = document.createElement("p");
+          if (res.isFinal) {
+            p.classList.add("final");
+          }
+          p.appendChild(text);
+          result.value = p.innerText;
+        }
+      };
+      recognition.continuous = true;
+      recognition.interimResults = true;
+      recognition.addEventListener("result", onResult);
+      button.addEventListener("click", event => {
+        listening ? stop() : start();
+        listening = !listening;
+      });
+    } else {
+      button.remove();
+      const message = document.getElementById("message");
+      message.removeAttribute("hidden");
+      message.setAttribute("aria-hidden", "false");
+    }
+  });
