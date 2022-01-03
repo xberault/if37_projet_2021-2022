@@ -31,9 +31,15 @@ def convert(splittedText, forme):
         elif (word[:-1].lower() in d) and (word[-1]=='s'):
             out[out.index(word)] = data[d.index(word[:-1].lower())][forme].capitalize() + 's'
 
+        #conjuguaison (WIP)
+        if word[-1:]=='é':
+            out[out.index(word)] += "\u2027ée"
+        if word[-2:]=='és':
+            out[out.index(word)] += "\u2027ées"
+
     return out
 
 def convert_sentence(sentence, forme):
     return ' '.join(convert(extractWords(sentence), forme))
 
-print(convert_sentence(test, 'forme1'))
+print(convert_sentence("Son manteau est très beau.", 'forme1'))
