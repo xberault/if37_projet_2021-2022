@@ -3518,5 +3518,13 @@
     "forme2": null,
     "forme3": "toustes",
     "forme4": null
+  },
+  {
+    "MASC": "ils",
+    "FEM": "elles",
+    "forme1": "ils/elles",
+    "forme2": "iels",
+    "forme3": null,
+    "forme4": null
   }
 ]
