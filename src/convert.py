@@ -1,7 +1,14 @@
 import json
 import os
 
-test = "Tous les artistes sont là"
+
+### Formes utilisées pour traduire d'une différente manière les phrases
+FORME_CONTRACTEE = 'forme1'
+FORME_LONGUE = 'forme2'
+FORME_COURTE = 'forme3'
+FORME_4 = 'forme4'
+
+FORME_DEFAULT = FORME_CONTRACTEE
 
 data_file = os.path.join("data", "dico.json")
 with open(__file__.replace("convert.py", data_file)) as f:
@@ -53,6 +60,17 @@ def addWord(masc, fem, forme1, forme2, forme3, forme4) {
 }
 
 def convert_sentence(sentence, forme):
-    return ' '.join(convert(extractWords(sentence), forme))
+    import re
 
-print(convert_sentence("Son manteau est très beau.", 'forme1'))
+    phrases = sentence.splitlines(True)
+    res = ""
+    for p in phrases:
+        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale
+        res += " ".join(convert(extractWords(p[:-1]), forme)) + p[-1]
+    return res
+
+
+
+if __name__ == "__main__":
+    test = "Tous les artistes sont là"
+    print(convert_sentence(test, FORME_DEFAULT))

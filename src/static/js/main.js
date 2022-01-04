@@ -131,3 +131,26 @@ window.addEventListener("DOMContentLoaded", () => {
       message.setAttribute("aria-hidden", "false");
     }
   });
+
+
+
+  // copy to clipboard button utils
+
+  function copy() {
+    var copyText =  $('#txt_traduit').val();
+    
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(copyText).then(() => {
+        console.log('Copied to clipboard successfully.');
+      }, (err) => {
+        console.log('Failed to copy the text to clipboard.', err);
+      });
+    } else if (window.clipboardData) {
+      window.clipboardData.setData("Text", copyText);
+    }
+
+
+  }
+  
+  $('#copy_btn').click(copy)
+  
