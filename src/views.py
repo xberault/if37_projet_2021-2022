@@ -1,5 +1,5 @@
 from flask import render_template
-from . import convert_sentence
+from . import convert_sentence, FORME_DEFAULT
 from . import app
 
 
@@ -8,7 +8,7 @@ def index():
     from flask import request
     if request.method == 'POST':
         a_traduire = request.form.get('txt_genre') 
-        traduction = convert_sentence(a_traduire)
+        traduction = convert_sentence(a_traduire, FORME_DEFAULT)
             
         #res = convert.convert(convert.extractWords(mot))
         return render_template("index.html", a_traduire=a_traduire, traduction=traduction)
