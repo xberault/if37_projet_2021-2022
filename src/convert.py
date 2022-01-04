@@ -41,7 +41,14 @@ def convert(splittedText, forme):
     return out
 
 def convert_sentence(sentence, forme):
-    return ' '.join(convert(extractWords(sentence), forme))
+    import re
+
+    phrases = sentence.splitlines(True)
+    res = ""
+    for p in phrases:
+        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale
+        res += " ".join(convert(extractWords(p[:-1]), forme)) + p[-1]
+    return res
 
 
 
