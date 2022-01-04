@@ -11,8 +11,8 @@
                <textarea class="input100" id="txt_genre" name="txt_genre" placeholder="Genré">{{ a_traduire }}</textarea>
                <span class="focus-input100">txt</span>
                <div class="container-contact100-form-btn">
-                  <button id="btn_spr" type="button" class="contact100-form-btn fa fa-microphone"/>
-                  <button type="submit" class="contact100-form-btn">
+                  <button id="btn_spr" type="button" class="btn  btn-outline-secondary contact100-form-btn fa fa-microphone"/>
+                  <button type="submit" class="btn btn-outline-primary contact100-form-btn">
                   Neutraliser
                   </button>
                   <div>
@@ -27,11 +27,11 @@
             <textarea class="input100" id="txt_traduit" readonly name="text_neutre" placeholder="Neutre">{{ traduction }}</textarea>
             <span class="focus-input100"></span>
             <div class="container-contact100-form-btn">
-               <button class="contact100-form-btn fa fa-clipboard"/>
-               <button class="contact100-form-btn">
+               <button id="copy_btn" class="btn btn-outline-secondary contact100-form-btn fa fa-clipboard"/>
+               <button disabled class="btn btn-outline-secondary contact100-form-btn">
                Utiliser "iel"
                </button>
-               <a href="#" id="speak" class="contact100-form-btn">Lire</a>
+               <a href="#" id="speak" class="btn btn-outline-secondary contact100-form-btn">Lire</a>
             </div>
          </div>
          <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/css/materialize.min.css">
