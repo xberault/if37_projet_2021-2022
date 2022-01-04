@@ -39,6 +39,19 @@ def convert(splittedText, forme):
 
     return out
 
+def addWord(masc, fem, forme1, forme2, forme3, forme4) {
+    data.append({
+            'MASC': masc,
+            'FEM': fem,
+            'forme1': forme1,
+            'forme2': forme2,
+            'forme3': forme3,
+            'forme4': forme4
+        })
+    with open(__file__.replace("convert.py", data_file), 'w') as out:
+        json.dump(data, out)
+}
+
 def convert_sentence(sentence, forme):
     return ' '.join(convert(extractWords(sentence), forme))
 
