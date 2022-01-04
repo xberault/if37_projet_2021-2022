@@ -1,7 +1,14 @@
 import json
 import os
 
-test = "Tous les artistes sont là"
+
+### Formes utilisées pour traduire d'une différente manière les phrases
+FORME_CONTRACTEE = 'forme1'
+FORME_LONGUE = 'forme2'
+FORME_COURTE = 'forme3'
+FORME_4 = 'forme4'
+
+FORME_DEFAULT = FORME_CONTRACTEE
 
 data_file = os.path.join("data", "dico.json")
 with open(__file__.replace("convert.py", data_file)) as f:
@@ -36,4 +43,8 @@ def convert(splittedText, forme):
 def convert_sentence(sentence, forme):
     return ' '.join(convert(extractWords(sentence), forme))
 
-print(convert_sentence(test, 'forme1'))
+
+
+if __name__ == "__main__":
+    test = "Tous les artistes sont là"
+    print(convert_sentence(test, FORME_DEFAULT))
