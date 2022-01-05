@@ -64,7 +64,7 @@ def convert_sentence(sentence, forme):
     phrases = sentence.splitlines(True)
     res = ""
     for p in phrases:
-        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale
+        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale lorsque présente
         res += " ".join(convert(extractWords(p[:-1]), forme)) + p[-1]
     return res
 
