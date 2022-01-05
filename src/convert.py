@@ -1,5 +1,7 @@
 import json
 import os
+
+from PIL.Image import NONE
 import spacy
 
 nlp = spacy.load("fr_core_news_sm")
@@ -26,24 +28,26 @@ def getMascWords():
         out.append(word['MASC'])
     return out
 
-def check_voisin(token, prev_mot, next_mot):
+def check_voisin(token, prev_token, next_token):
     """
     Verifie les voisins immédiats du mot et renvoie un booléen sur s'il doit être neutralisé ou non
     """
     d = getMascWords()
+
+    next_mot = "" if next_token == None else next_token.text
+    prev_mot = "" if prev_token == None else prev_token.text
     
-    print("prev = " + str(prev_mot))
-    print("token = " + str(token))
-    print("next = " + str(next_mot))
     
-    isOk = True
-    if next_mot != None:
-        isOk &= next_mot.lower() in d
+
+    next_ok = next_mot.strip() == "" or next_mot.lower() in d
     
-    print(str(token.pos_), str(token.pos_) != "DET")
-    print("res= " + str(isOk or str(token.pos_) != "DET"))
-    print("------------")
-    return isOk or str(token.pos_) != "DET"
+    prev_ok = prev_mot.strip() == "" or prev_mot.lower() in d
+    
+    adp_into_noun_ok = next_token == None or (str(next_token.pos_) == "NOUN" and str(token.pos_) == "ADP" and str(prev_token.pos_) == "NOUN")
+    
+    
+    isOk = ((next_ok and prev_ok) or (str(token.pos_) != "DET"  and adp_into_noun_ok))
+    return isOk or (prev_mot.lower() in d and str(token.pos_) == "NOUN")
 
 def get_next_prev_mot(out, i):
     prev, next_t = None, None
@@ -66,13 +70,12 @@ def convert(splittedText, forme, doc):
         
         token = doc[i]
         print(i, word)
-        prev_mot, next_mot = get_next_prev_mot(out, i)
+        prev_mot, next_mot = get_next_prev_mot(doc, i)
         
         if word in d and check_voisin(token, prev_mot, next_mot):
             out[out.index(word)] = data[d.index(word)][forme]
         elif word.lower() in d and check_voisin(token, prev_mot, next_mot):
             out[out.index(word)] = data[d.index(word.lower())][forme].capitalize()
-        
         elif (word[:-1] in d) and (word[-1]=='s'):
             out[out.index(word)] = data[d.index(word[:-1])][forme] + 's'
         elif (word[:-1].lower() in d) and (word[-1]=='s'):
@@ -134,11 +137,13 @@ def convert_sentence(sentence, forme):
 
 if __name__ == "__main__":
     ens_test = {
-        "Ce pendentif est joli.",
-        "Un professeur ",
         """
-        Cet apiculteur récolte du miel.
-        Ce pendentif est joli 
+chien
+Cet apiculteur récolte du miel.
+Le professeur écrit sur le tableau
+Le pendentif est joli
+Ceci est un travail du professeur.
+Marseille est une belle ville.
         """
     }
     res_final = ""
