@@ -2,16 +2,19 @@
 {% block main %}
 <div class="bg-contact100" style="background-image: url('/static/images/bg-01.jpg');">
    <div class="container-contact100">
+      <form class="contact100-form validate-form" enctype=multipart/form-data method="POST" action="/">
+
       <div class="wrap-contact100">
-         <form class="contact100-form validate-form" method="POST" action="/">
             <span class="contact100-form-title">
             Neutralisateur de texte
             </span>
-            <div class="wrap-input100 " >
+            <div class="wrap-input100 ">
                <textarea class="input100" id="txt_genre" name="txt_genre" placeholder="Genré">{{ a_traduire }}</textarea>
                <span class="focus-input100">txt</span>
                <div class="container-contact100-form-btn">
                   <button id="btn_spr" type="button" class="btn  btn-outline-secondary contact100-form-btn fa fa-microphone"/>
+                     
+                  
                   <button type="submit" class="btn btn-outline-primary contact100-form-btn">
                   Neutraliser
                   </button>
@@ -22,7 +25,6 @@
                   </div>
                </div>
             </div>
-         </form>
          <div class="wrap-input100 ">
             <textarea class="input100" id="txt_traduit" readonly name="text_neutre" placeholder="Neutre">{{ traduction }}</textarea>
             <span class="focus-input100"></span>
@@ -34,10 +36,16 @@
                <a href="#" id="speak" class="btn btn-outline-secondary contact100-form-btn">Lire</a>
             </div>
          </div>
+         <button disabled>
+            <label for="formFileSm" class="form-label input100">Importer une image à neutraliser</p>
+            <input name='file' class="form-control form-control-sm"" accept="image/*"  id="formFileSm" type="file" onchange="this.form.submit()" />
+         </button>
          <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/css/materialize.min.css">
          <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
          <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/js/materialize.min.js"></script>
-      </div>
-   </div>
+      </form>
+   </div>            
+</div>
+  
 </div>
 {% endblock %}
