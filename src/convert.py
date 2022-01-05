@@ -46,7 +46,7 @@ def convert(splittedText, forme):
 
     return out
 
-def addWord(masc, fem, forme1, forme2, forme3, forme4) {
+def addWord(masc, fem, forme1, forme2, forme3, forme4):
     data.append({
             'MASC': masc,
             'FEM': fem,
@@ -57,7 +57,6 @@ def addWord(masc, fem, forme1, forme2, forme3, forme4) {
         })
     with open(__file__.replace("convert.py", data_file), 'w') as out:
         json.dump(data, out)
-}
 
 def convert_sentence(sentence, forme):
     import re
@@ -65,7 +64,7 @@ def convert_sentence(sentence, forme):
     phrases = sentence.splitlines(True)
     res = ""
     for p in phrases:
-        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale
+        #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale lorsque présente
         res += " ".join(convert(extractWords(p[:-1]), forme)) + p[-1]
     return res
 

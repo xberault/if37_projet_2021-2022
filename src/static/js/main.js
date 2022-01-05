@@ -121,8 +121,12 @@ window.addEventListener("DOMContentLoaded", () => {
       recognition.interimResults = true;
       recognition.addEventListener("result", onResult);
       button.addEventListener("click", event => {
-        listening ? stop() : start();
-        listening = !listening;
+
+        if(listening || confirm("Cela va supprimer le texte déjà entré, êtes-vous sûr ?")){
+          listening ? stop() : start();
+          listening = !listening;
+        }
+ 
       });
     } else {
       button.remove();
