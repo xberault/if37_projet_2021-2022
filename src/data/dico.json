@@ -3352,41 +3352,9 @@
     "forme4": null
   },
   {
-    "MASC": "le",
-    "FEM": "la",
-    "forme1": "le\u2027la",
-    "forme2": null,
-    "forme3": null,
-    "forme4": null
-  },
-  {
     "MASC": "les",
     "FEM": "les",
     "forme1": "les",
-    "forme2": null,
-    "forme3": null,
-    "forme4": null
-  },
-  {
-    "MASC": "un",
-    "FEM": "une",
-    "forme1": "un\u2027e",
-    "forme2": null,
-    "forme3": null,
-    "forme4": null
-  },
-  {
-    "MASC": "uns",
-    "FEM": "unes",
-    "forme1": "un\u2027es",
-    "forme2": null,
-    "forme3": null,
-    "forme4": null
-  },
-  {
-    "MASC": "du",
-    "FEM": "de la",
-    "forme1": "du\u2027de la",
     "forme2": null,
     "forme3": null,
     "forme4": null
@@ -3483,6 +3451,38 @@
     "MASC": "vos",
     "FEM": "vos",
     "forme1": "vos",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "le",
+    "FEM": "le",
+    "forme1": "le\u2027la",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "un",
+    "FEM": "une",
+    "forme1": "un\u2027e",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "uns",
+    "FEM": "unes",
+    "forme1": "un\u2027es",
+    "forme2": null,
+    "forme3": null,
+    "forme4": null
+  },
+  {
+    "MASC": "du",
+    "FEM": "de la",
+    "forme1": "du\u2027de la",
     "forme2": null,
     "forme3": null,
     "forme4": null

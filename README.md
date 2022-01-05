@@ -17,6 +17,7 @@ Site web permettant de transformer des textes en textes ayant une écriture incl
 
 ```sh
 pip install -r requirement.txt
+python3 -m spacy download fr_core_news_sm
 ```
 
 #### Environnement Tesseract
