@@ -2,28 +2,34 @@
   font-family: Montserrat-Regular;
   src: url(../fonts/montserrat/Montserrat-Regular.ttf);
 }
+
 @font-face {
   font-family: Montserrat-Bold;
   src: url(../fonts/montserrat/Montserrat-Bold.ttf);
 }
+
 @font-face {
   font-family: Montserrat-ExtraBold;
   src: url(../fonts/montserrat/Montserrat-ExtraBold.ttf);
 }
+
 @font-face {
   font-family: Montserrat-Medium;
   src: url(../fonts/montserrat/Montserrat-Medium.ttf);
 }
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 body,
 html {
   height: 100%;
   font-family: Montserrat-Regular, sans-serif;
 }
+
 a {
   font-family: Montserrat-Regular;
   font-size: 14px;
@@ -35,13 +41,16 @@ a {
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
 }
+
 a:focus {
   outline: 0 !important;
 }
+
 a:hover {
   text-decoration: none;
   color: #57b846;
 }
+
 p {
   font-family: Montserrat-Regular;
   font-size: 14px;
@@ -49,80 +58,103 @@ p {
   color: #666;
   margin: 0;
 }
+
 input {
   outline: 0;
   border: none;
 }
+
 textarea {
   outline: 0;
   border: none;
 }
+
 input:focus,
 textarea:focus {
   border-color: transparent !important;
 }
+
 input:focus::-webkit-input-placeholder {
   color: transparent;
 }
+
 input:focus:-moz-placeholder {
   color: transparent;
 }
+
 input:focus::-moz-placeholder {
   color: transparent;
 }
+
 input:focus:-ms-input-placeholder {
   color: transparent;
 }
+
 textarea:focus::-webkit-input-placeholder {
   color: transparent;
 }
+
 textarea:focus:-moz-placeholder {
   color: transparent;
 }
+
 textarea:focus::-moz-placeholder {
   color: transparent;
 }
+
 textarea:focus:-ms-input-placeholder {
   color: transparent;
 }
+
 input::-webkit-input-placeholder {
   color: #aaa;
 }
+
 input:-moz-placeholder {
   color: #aaa;
 }
+
 input::-moz-placeholder {
   color: #aaa;
 }
+
 input:-ms-input-placeholder {
   color: #aaa;
 }
+
 textarea::-webkit-input-placeholder {
   color: #aaa;
 }
+
 textarea:-moz-placeholder {
   color: #aaa;
 }
+
 textarea::-moz-placeholder {
   color: #aaa;
 }
+
 textarea:-ms-input-placeholder {
   color: #aaa;
 }
+
 button {
   outline: 0 !important;
   border: none;
   background: 0 0;
 }
+
 button:hover {
   cursor: pointer;
 }
+
 .bg-contact100 {
   width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
+
 .container-contact100 {
   width: 100%;
   min-height: 100vh;
@@ -143,10 +175,12 @@ button:hover {
   background: #fff;
   border-radius: 10px;
 }
+
 .contact100-form {
   width: 1160px;
   text-align: center;
 }
+
 .contact100-form-title {
   display: block;
   font-family: Montserrat-ExtraBold;
@@ -157,16 +191,19 @@ button:hover {
   text-align: center;
   padding-bottom: 36px;
 }
+
 input.input100 {
   height: 50px;
   border-radius: 25px;
   padding: 0 30px 0 50px;
 }
+
 textarea.input100 {
   min-height: 240px;
   padding: 14px 30px;
   resize: none;
 }
+
 .wrap-input100 {
   position: relative;
   width: 45%;
@@ -176,6 +213,7 @@ textarea.input100 {
   margin-bottom: 10px;
   margin-left: 20px;
 }
+
 .input100 {
   display: block;
   width: 100%;
@@ -185,6 +223,7 @@ textarea.input100 {
   line-height: 1.5;
   color: #666;
 }
+
 .focus-input100 {
   display: block;
   position: absolute;
@@ -197,10 +236,12 @@ textarea.input100 {
   box-shadow: 0 0;
   color: rgba(132, 106, 221, 0.5);
 }
-.input100:focus + .focus-input100 {
+
+.input100:focus+.focus-input100 {
   -webkit-animation: anim-shadow 0.5s ease-in-out forwards;
   animation: anim-shadow 0.5s ease-in-out forwards;
 }
+
 .container-contact100-form-btn {
   width: 100%;
   display: -webkit-box;
@@ -212,6 +253,7 @@ textarea.input100 {
   justify-content: center;
   padding-top: 20px;
 }
+
 .contact100-form-btn {
   height: 50px;
   border-radius: 25px;
@@ -234,35 +276,43 @@ textarea.input100 {
   -moz-transition: all 0.4s;
   transition: all 0.4s;
 }
+
 .contact100-form-btn:hover {
   background: #333;
 }
+
 @media (max-width: 1200px) {
   .contact100-form {
     width: 44%;
   }
 }
+
 @media (max-width: 992px) {
   .wrap-contact100 {
     padding: 110px 80px 157px 90px;
   }
+
   .contact100-form {
     width: 55%;
   }
 }
+
 @media (max-width: 768px) {
   .wrap-contact100 {
     padding: 110px 80px 157px 80px;
   }
+
   .contact100-form {
     width: 100%;
   }
 }
+
 @media (max-width: 576px) {
   .wrap-contact100 {
     padding: 110px 15px 157px 15px;
   }
 }
+
 .validate-input {
   position: relative;
 }

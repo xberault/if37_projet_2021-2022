@@ -1,5 +1,3 @@
-
-
 {% extends "base.html" %}
 {% block main %}
 <div class="bg-contact100" style="background-image: url('/static/images/bg-01.jpg');">
@@ -7,15 +5,17 @@
       <form class="contact100-form validate-form" enctype=multipart/form-data method="POST" action="/">
          <div class="wrap-contact100">
             <span class="contact100-form-title">
-            Neutralisateur de texte
+               Neutralisateur de texte
             </span>
             <div class="wrap-input100 ">
-               <textarea class="input100" id="txt_genre" name="txt_genre" placeholder="Genré">{{ a_traduire }}</textarea>
+               <textarea class="input100" id="txt_genre" name="txt_genre"
+                  placeholder="Genré">{{ a_traduire }}</textarea>
                <span class="focus-input100">txt</span>
                <div class="container-contact100-form-btn">
-                  <button id="btn_spr" type="button" class="btn  btn-outline-secondary contact100-form-btn fa fa-microphone"/>
+                  <button id="btn_spr" type="button"
+                     class="btn  btn-outline-secondary contact100-form-btn fa fa-microphone" />
                   <button type="submit" class="btn btn-outline-primary contact100-form-btn">
-                  Neutraliser
+                     Neutraliser
                   </button>
                   <div>
                      <p id="message" hidden aria-hidden="true">
@@ -25,26 +25,27 @@
                </div>
             </div>
             <div class="wrap-input100 ">
-               <textarea class="input100" id="txt_traduit" readonly name="text_neutre" placeholder="Neutre">{{ traduction }}</textarea>
+               <textarea class="input100" id="txt_traduit" readonly name="text_neutre"
+                  placeholder="Neutre">{{ traduction }}</textarea>
                <span class="focus-input100"></span>
                <div class="container-contact100-form-btn">
-                  <button id="copy_btn" class="btn btn-outline-secondary contact100-form-btn fa fa-clipboard"/>
+                  <button id="copy_btn" class="btn btn-outline-secondary contact100-form-btn fa fa-clipboard" />
                   <button disabled class="btn btn-outline-secondary contact100-form-btn">
-                  Utiliser "iel"
+                     Utiliser "iel"
                   </button>
                   <a href="#" id="speak" class="btn btn-outline-secondary contact100-form-btn">Lire</a>
                </div>
             </div>
             <button disabled>
-            <label for="formFileSm" class="form-label input100">Importer une image à neutraliser</p>
-            <input name='file' class="form-control form-control-sm"" accept="image/*"  id="formFileSm" type="file" onchange="this.form.submit()" />   
-         </button>
+               <label for="formFileSm" class="form-label input100">Importer une image à neutraliser</label>
+                  <input name='file' class="form-control form-control-sm"" accept=" image/*" id="formFileSm" type="file"
+                     onchange="this.form.submit()" />
+            </button>
             <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/css/materialize.min.css">
             <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
             <script src="//cdnjs.cloudflare.com/ajax/libs/materialize/0.95.1/js/materialize.min.js"></script>
       </form>
-      </div>            
    </div>
 </div>
+</div>
 {% endblock %}
-
