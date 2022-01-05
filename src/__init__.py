@@ -8,6 +8,7 @@ from .convert import convert_sentence, FORME_COURTE, FORME_CONTRACTEE, FORME_DEF
 from . import convert, views
 
 
+
 def serve():
     app.run(debug=True)
 
