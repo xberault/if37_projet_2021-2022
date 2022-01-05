@@ -7,6 +7,7 @@ Site web permettant de transformer des textes en textes ayant une écriture incl
   - pip3
 
 - Tesseract-OCR : permet la reconnaissance de text
+  - module de texte français
 
   
 
