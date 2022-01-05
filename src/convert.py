@@ -34,7 +34,7 @@ def convert(splittedText, forme):
             out[out.index(word)] = data[d.index(word.lower())][forme].capitalize()
         
         elif (word[:-1] in d) and (word[-1]=='s'):
-            out[out.index(word)] = data[d.index(word[:-1])][forme].capitalize() + 's'
+            out[out.index(word)] = data[d.index(word[:-1])][forme] + 's'
         elif (word[:-1].lower() in d) and (word[-1]=='s'):
             out[out.index(word)] = data[d.index(word[:-1].lower())][forme].capitalize() + 's'
 
@@ -71,5 +71,5 @@ def convert_sentence(sentence, forme):
 
 
 if __name__ == "__main__":
-    test = "Tous les artistes sont là"
+    test = "Tous les apiculteurs sont là"
     print(convert_sentence(test, FORME_DEFAULT))
