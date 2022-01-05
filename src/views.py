@@ -18,7 +18,7 @@ def index():
             a_traduire = pytesseract.image_to_string(Image.open(io.BytesIO(image_data)), lang="fra")
 
         elif 'txt_genre' in request.form:
-            a_traduire = request.form.get('txt_genre') + " pas de file"
+            a_traduire = request.form.get('txt_genre')
         
         traduction = convert_sentence(a_traduire, FORME_DEFAULT)
             
