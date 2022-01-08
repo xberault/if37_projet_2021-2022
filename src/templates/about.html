@@ -1,0 +1,50 @@
+{% set active_page = "about" %}
+{% extends "base.html" %}
+{% block main %}
+<div class="bg-contact100" style="background-image: url('/static/images/bg-01.jpg');">
+    <div class="container-contact100">
+        <div class="wrap-contact100">
+            <span class="contact100-form-title">
+                Neutralisateur de texte
+            </span>
+            <div class="w-100 p-4 ">
+                <span class="contact100-form-title">
+                L'écriture inclusive vise les concepts suivants:
+            </span>
+                
+                <div class="row">
+                    <div class="col-4">
+                      <div class="list-group" id="list-tab" role="tablist">
+                        <a class="list-group-item list-group-item-action active" id="list-1-list" data-toggle="list" href="#list-1" role="tab" aria-controls="1">Exprimer à la fois le masculin et le féminin dès qu'on parle d'un groupe</a>
+                        <a class="list-group-item list-group-item-action" id="list-2-list" data-toggle="list" href="#list-2" role="tab" aria-controls="2">Accorder les métiers, fonctions, grades et titres</a>
+                        <a class="list-group-item list-group-item-action" id="list-3-list" data-toggle="list" href="#list-3" role="tab" aria-controls="3">Accorder l'adjectif avec le sujet le plus proche, et non au masculin</a>
+                        <a class="list-group-item list-group-item-action" id="list-4-list" data-toggle="list" href="#list-4" role="tab" aria-controls="4">Eviter les termes génériques comme "droits de l'Homme" </a>
+                      </div>
+                      <i class="lead">Définitions provenant de lejdd.fr</i>
+                    </div>
+                    <div class="col-8">
+                      <div class="tab-content text-justify" id="nav-tabContent">
+                        <div class="tab-pane fade show active" id="list-1" role="tabpanel" aria-labelledby="list-1-list">
+                            <b>Exprimer à la fois le masculin et le féminin dès qu'on parle d'un groupe.</b>
+                            C'est le point le plus controversé de l'écriture inclusive. Afin de souligner la présence à la fois des hommes et des femmes dans un groupe donné, l'écriture inclusive marque d'un point médian les différences de genre. Il est taxé d'"illisible" par ses détracteurs. Dans les faits, il est donc préconisé d'écrire "un·e apprenti·e" ou "les ingénieur·es", "les électeur.rices" ou "créatif·ive". 
+D'autres solutions existent en dehors du point médian. L'emploi d'un terme épicène peut être privilégié pour désigner un groupe, soit un mot englobant les deux genres : "les élèves", "les personnes candidates", "les volontaires". On peut autrement recourir à la double flexion, c'est-à-dire accoler le féminin et le masculin d'un même mot : "les agriculteurs et les agricultrices", "celles et ceux", "les Françaises et les Français"...
+                        </div>
+                        <div class="tab-pane fade" id="list-2" role="tabpanel" aria-labelledby="list-2-list">
+                            <b>Accorder les métiers, fonctions, grades et titres.</b> Plus simplement, l'écriture inclusive consiste à féminiser tous les noms de profession, le plus souvent en ajoutant un "e" à la fin des mots. On parle donc d'une "jardinière", "principale", "cheminote", ou à défaut, d'une "chercheuse", d'une "carreleuse". Même l'Académie française, pourtant peu portée sur l'écriture inclusive, s'est prononcée en février 2019 en faveur d'une telle féminisation - à l'exception des fonctions et des grades. Reste certains mots comme chef ("cheffe", "cheffesse", "cheftaine" ?) ou auteur ("autrice", "auteure", "auteuse" ?) qui continuent de faire débat.
+                        </div>
+                        <div class="tab-pane fade" id="list-3" role="tabpanel" aria-labelledby="list-3-list">
+                            <b>Accorder l'adjectif avec le sujet le plus proche, et non au masculin. </b>
+                            "Le masculin l'emporte sur le féminin" est la règle au pluriel dès qu'un groupe comprend au moins un homme. Les défenseurs de l'écriture inclusive souhaitent y mettre fin par l'accord de proximité, qui s'attache au sujet le plus proche. On dira ainsi "les villages et les villes sont belles" ou "les pays et régions étrangères". A noter que la règle actuelle n'a pas toujours existé, comme le rappelle sur Europe 1 Eliane Viennot, professeur de l'Université de Saint-Etienne et promotrice de l'écriture inclusive : ""Elle a été mise au point au 17e siècle. D'ailleurs, à cette époque-là, on ne disait pas exactement cette formule, mais 'le genre le plus noble s'impose lorsque les deux genres sont en présence'. Ça veut tout dire."
+                        </div>
+                        <div class="tab-pane fade" id="list-4" role="tabpanel" aria-labelledby="list-4-list">
+                            <b>Eviter les termes génériques comme "droits de l'Homme". </b>
+                            L'écriture inclusive proscrit enfin les antonomases du nom commun, c'est-à-dire tous les noms commençant à l'écrit par une majuscule. On parlera ainsi de "droits humains" ou de "droits de la personne humaine" plutôt que de "droits de l'Homme".
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -117,7 +117,9 @@ def convert_sentence(sentence, forme):
     for i, sent in enumerate(doc.sents): #, p, token in enumerate(zip(phrases, doc)):
         #p[-1] est le délimiteur de ligne, cela permet de garder l'indentation originale lorsque présente
         
-        p = phrases[i] + " "
+        p = [""] if i >= len(phrases) else phrases[i] + " "
+
+            
         print("----- p:")
         print(str(sent))
         print(p)

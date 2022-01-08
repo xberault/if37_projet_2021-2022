@@ -1136,6 +1136,14 @@
     "forme4": null
   },
   {
+    "MASC": "étudiants",
+    "FEM": "étudiantes",
+    "forme1": "étudiant\u2027e\u2027s",
+    "forme2": "détective",
+    "forme3": null,
+    "forme4": null
+  },
+  {
     "MASC": "détenteur",
     "FEM": "détentrice",
     "forme1": "détenteur\u2027trice",
@@ -3451,14 +3459,6 @@
     "MASC": "vos",
     "FEM": "vos",
     "forme1": "vos",
-    "forme2": null,
-    "forme3": null,
-    "forme4": null
-  },
-  {
-    "MASC": "le",
-    "FEM": "le",
-    "forme1": "le\u2027la",
     "forme2": null,
     "forme3": null,
     "forme4": null

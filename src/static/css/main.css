@@ -2,6 +2,9 @@
   font-family: Montserrat-Regular;
   src: url(../fonts/montserrat/Montserrat-Regular.ttf);
 }
+* {
+  max-height: 100% !important;
+}
 
 @font-face {
   font-family: Montserrat-Bold;
@@ -148,6 +151,10 @@ button:hover {
   cursor: pointer;
 }
 
+.navbar{
+  opacity: 80%;
+}
+
 .bg-contact100 {
   width: 100%;
   background-repeat: no-repeat;
@@ -155,9 +162,13 @@ button:hover {
   background-size: cover;
 }
 
+.tab-pane {
+  float: left !important;
+}
+
 .container-contact100 {
   width: 100%;
-  min-height: 100vh;
+  min-height: 93vh;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
